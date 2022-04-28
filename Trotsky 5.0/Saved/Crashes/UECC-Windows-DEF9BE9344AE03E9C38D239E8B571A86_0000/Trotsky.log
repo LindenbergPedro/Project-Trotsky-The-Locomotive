@@ -1,0 +1,1476 @@
+﻿Log file open, 04/24/22 11:54:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14636)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Trotsky
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Trotsky.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 3500X 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="8933689b4101cc063ad606a7680a4486"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.446592
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-DEF9BE9344AE03E9C38D239E8B571A86
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
+LogConfig: Display: Loading Mac ini files took 0.07 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.08 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin HDRIBackdrop
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HDRIBackdrop/Content/' mounted to '/HDRIBackdrop/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) (), CPU: AMD Ryzen 5 3500X 6-Core Processor             , GPU: NVIDIA GeForce GTX 1650
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.04.24-14.54.54:225][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.04.24-14.54.54:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.04.24-14.54.54:226][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.04.24-14.54.54:226][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.04.24-14.54.54:227][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.04.24-14.54.54:227][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.04.24-14.54.54:227][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.04.24-14.54.54:233][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.04.24-14.54.54:344][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.24-14.54.54:346][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.24-14.54.54:346][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.04.24-14.54.54:346][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.24-14.54.54:346][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.04.24-14.54.54:346][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2022.04.24-14.54.54:347][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.24-14.54.54:347][  0]LogD3D11RHI:     DeviceId    : 2188
+[2022.04.24-14.54.54:347][  0]LogD3D11RHI:     SubSysId    : 40281458
+[2022.04.24-14.54.54:347][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.24-14.54.54:347][  0]LogD3D11RHI:     DedicatedVideoMemory : 4154458112 bytes
+[2022.04.24-14.54.54:347][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.24-14.54.54:347][  0]LogD3D11RHI:     SharedSystemMemory : 17143072768 bytes
+[2022.04.24-14.54.54:347][  0]LogD3D11RHI:     AdapterLuid : 0 40110
+[2022.04.24-14.54.54:480][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_1)
+[2022.04.24-14.54.54:480][  0]LogD3D11RHI:       3962/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.04.24-14.54.54:480][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.04.24-14.54.54:480][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.04.24-14.54.54:480][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.04.24-14.54.54:480][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.04.24-14.54.54:480][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.04.24-14.54.54:480][  0]LogD3D11RHI:     Revision    : 0000
+[2022.04.24-14.54.54:481][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.04.24-14.54.54:481][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.24-14.54.54:481][  0]LogD3D11RHI:     SharedSystemMemory : 17143072768 bytes
+[2022.04.24-14.54.54:481][  0]LogD3D11RHI:     AdapterLuid : 0 43255
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:       0/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:     DeviceId    : 2188
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:     SubSysId    : 40281458
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:     DedicatedVideoMemory : 4154458112 bytes
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:     SharedSystemMemory : 17143072768 bytes
+[2022.04.24-14.54.54:483][  0]LogD3D11RHI:     AdapterLuid : 0 40110
+[2022.04.24-14.54.54:483][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.24-14.54.54:484][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.04.24-14.54.54:485][  0]LogHAL: Display: Platform has ~ 32 GB [34286145536 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.24-14.54.54:485][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.04.24-14.54.54:485][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.04.24-14.54.54:485][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.24-14.54.54:486][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.04.24-14.54.54:486][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Saved/Config/WindowsEditor/Editor.ini]
+[2022.04.24-14.54.54:486][  0]LogInit: Computer: DESKTOP-LCKNR43
+[2022.04.24-14.54.54:486][  0]LogInit: User: pedro
+[2022.04.24-14.54.54:486][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.04.24-14.54.54:486][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.24-14.54.54:486][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.04.24-14.54.54:486][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.04.24-14.54.54:486][  0]LogMemory: Process Physical Memory: 253.13 MB used, 259.75 MB peak
+[2022.04.24-14.54.54:486][  0]LogMemory: Process Virtual Memory: 199.57 MB used, 199.57 MB peak
+[2022.04.24-14.54.54:486][  0]LogMemory: Physical Memory: 8270.17 MB used,  24427.65 MB free, 32697.82 MB total
+[2022.04.24-14.54.54:486][  0]LogMemory: Virtual Memory: 10764.43 MB used,  26797.38 MB free, 37561.82 MB total
+[2022.04.24-14.54.54:486][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.04.24-14.54.54:495][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.24-14.54.54:643][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.04.24-14.54.54:646][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.04.24-14.54.54:646][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.04.24-14.54.55:019][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.24-14.54.55:049][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.04.24-14.54.55:049][  0]LogWindowsTextInputMethodSystem:   - Português (Brasil) - (Keyboard).
+[2022.04.24-14.54.55:049][  0]LogWindowsTextInputMethodSystem:   - Português (Brasil) - Correção de Entrada por Toque (TSF IME).
+[2022.04.24-14.54.55:050][  0]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.04.24-14.54.55:129][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.24-14.54.55:129][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.24-14.54.58:166][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.24-14.54.58:166][  0]LogD3D11RHI:     GPU DeviceId: 0x2188 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.24-14.54.58:166][  0]LogWindows: EnumDisplayDevices:
+[2022.04.24-14.54.58:166][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2022.04.24-14.54.58:166][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650' (P:0 D:1)
+[2022.04.24-14.54.58:167][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2022.04.24-14.54.58:167][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2022.04.24-14.54.58:167][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:   Driver Version: 511.65 (internal:30.0.15.1165, unified:511.65)
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:      Driver Date: 1-28-2022
+[2022.04.24-14.54.58:167][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     DeviceId    : 2188
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     SubSysId    : 40281458
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     DedicatedVideoMemory : 4154458112 bytes
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     SharedSystemMemory : 17143072768 bytes
+[2022.04.24-14.54.58:167][  0]LogD3D11RHI:     AdapterLuid : 0 40110
+[2022.04.24-14.54.58:275][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.24-14.54.58:275][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.24-14.54.58:275][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.04.24-14.54.58:275][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.24-14.54.58:312][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.24-14.54.58:361][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.24-14.54.58:421][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Trotsky.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Intermediate/TurnkeyReport_0.log" -log="C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Intermediate/TurnkeyLog_0.log" -project="C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Trotsky.uproject"  -platform=all'
+[2022.04.24-14.54.58:422][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Trotsky.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Intermediate/TurnkeyReport_0.log" -log="C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Intermediate/TurnkeyLog_0.log" -project="C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Trotsky.uproject"  -platform=all" ]
+[2022.04.24-14.54.58:598][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.04.24-14.54.58:697][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.04.24-14.54.58:697][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.24-14.54.58:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.24-14.54.58:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.04.24-14.54.58:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.04.24-14.54.58:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.24-14.54.58:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.24-14.54.58:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.24-14.54.58:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.04.24-14.54.58:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.24-14.54.58:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.24-14.54.58:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.04.24-14.54.58:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.04.24-14.54.58:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.04.24-14.54.58:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.24-14.54.58:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.24-14.54.58:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.24-14.54.58:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.04.24-14.54.58:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.24-14.54.58:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.24-14.54.58:966][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.04.24-14.54.59:051][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.24-14.54.59:075][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.04.24-14.54.59:076][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.04.24-14.54.59:076][  0]LogTargetPlatformManager:   ADPCM
+[2022.04.24-14.54.59:076][  0]LogTargetPlatformManager:   PCM
+[2022.04.24-14.54.59:099][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.04.24-14.54.59:099][  0]LogTargetPlatformManager:   BINKA
+[2022.04.24-14.54.59:099][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.04.24-14.54.59:099][  0]LogTargetPlatformManager:   OGG
+[2022.04.24-14.54.59:099][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.04.24-14.54.59:099][  0]LogTargetPlatformManager:   OPUS
+[2022.04.24-14.54.59:393][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.04.24-14.54.59:452][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.04.24-14.54.59:452][  0]LogTargetPlatformManager:   SF_METAL
+[2022.04.24-14.54.59:452][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.04.24-14.54.59:452][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.04.24-14.54.59:453][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.04.24-14.54.59:489][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.04.24-14.54.59:489][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.04.24-14.54.59:489][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.04.24-14.54.59:489][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.04.24-14.54.59:489][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.04.24-14.54.59:489][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.04.24-14.54.59:489][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.04.24-14.54.59:489][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.24-14.54.59:491][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Projetos/Trotsky 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.04.24-14.54.59:497][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.04.24-14.54.59:497][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Projetos/Trotsky 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.04.24-14.54.59:502][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.04.24-14.54.59:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projetos/Trotsky 5.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.24-14.54.59:508][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.04.24-14.54.59:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projetos/Trotsky 5.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.24-14.54.59:508][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.04.24-14.54.59:569][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.04.24-14.54.59:571][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.24-14.54.59:571][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.04.24-14.54.59:592][  0]LogDerivedDataCache: Speed tests for C:/Users/pedro/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.04.24-14.54.59:593][  0]LogDerivedDataCache: Display: Performance to C:/Users/pedro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.21ms. RandomReadSpeed=94.26MBs, RandomWriteSpeed=112.64MBs. Assigned SpeedClass 'Local'
+[2022.04.24-14.54.59:595][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pedro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.24-14.54.59:596][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.24-14.54.59:596][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.04.24-14.54.59:607][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.04.24-14.54.59:607][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.04.24-14.54.59:612][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../Projetos/Trotsky 5.0/Intermediate/Shaders/WorkingDirectory/16440/).
+[2022.04.24-14.54.59:613][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pedro/AppData/Local/Temp/UnrealShaderWorkingDir/0F16778141D3682037B8CC949FDF48DD/'.
+[2022.04.24-14.54.59:613][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.24-14.54.59:613][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.04.24-14.55.05:607][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.04.24-14.55.05:607][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.24-14.55.05:623][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.24-14.55.05:724][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2022.04.24-14.55.05:731][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.04.24-14.55.06:138][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.04.24-14.55.06:142][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.04.24-14.55.06:674][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.24-14.55.06:674][  0]LogDeviceProfileManager: Active device profile: [000008C8919B24C0][000008C886C55000 50] WindowsEditor
+[2022.04.24-14.55.06:674][  0]LogDeviceProfileManager: Profiles: [000008C8919B1F80][000008C886C52800 50] Windows, [000008C8919B24C0][000008C886C55000 50] WindowsEditor, [000008C8919B0000][000008C886BD7800 50] WindowsServer, [000008C8919B1880][000008C88957C800 50] WindowsClient, [000008C8919B2F40][000008C878D47800 50] IOS, [000008C8919B2680][000008C8826B2800 50] iPadAir2, [000008C8919B5400][000008C8919A0000 50] IPadPro, [000008C8919B5780][000008C8919A2800 50] iPadAir3, [000008C8919B2840][000008C8919A7800 50] iPadAir4, [000008C8919B2D80][000008C8919AA000 50] iPadMini4, [000008C8919B32C0][000008C8919AC800 50] iPadMini5, [000008C8919B5940][000008C886C50000 50] iPadMini6, [000008C8919B7C40][000008C8919C2800 50] iPhone6S, [000008C8919B7FC0][000008C8919C0000 50] iPhone7, [000008C8919B8340][000008C8919C5000 50] iPodTouch7, [000008C8919B40C0][000008C8919CA000 50] iPhone6SPlus, [000008C8919B3D40][000008C8919CC800 50] iPhone7Plus, [000008C8919B6740][000008C8919A5000 50] iPhoneSE, [000008C8919B71C0][000008C8919C7800 50] iPhone8, [000008C8919B4980][000008C8917F0000 50] iPhone8Plus, [000008C8919B4280][000008C8917F5000 50] iPhoneX, [000008C8919B7000][000008C8917F7800 50] iPhoneXS, [000008C8919B6580][000008C8917FA000 50] iPhoneXSMax, [000008C8919B8A40][000008C8917FC800 50] iPhoneXR, [000008C8919B1500][000008C886B9C800 50] iPhone11, [000008C8919B6900][000008C8917D0000 50] iPhone11Pro, [000008C8919B1180][000008C8917D5000 50] iPhone11ProMax, [000008C8919B5080][000008C8917D7800 50] iPhoneSE2, [000008C8919B0380][000008C8917DA000 50] iPhone12Mini, [000008C8919B78C0][000008C8917DC800 50] iPhone12, [000008C8919B0FC0][000008C8917F2800 50] iPhone12Pro, [000008C8919B3480][000008C8919E0000 50] iPhone12ProMax, [000008C8919B2300][000008C8919E5000 50] iPhone13Mini, [000008C8919B0540][000008C8919E7800 50] iPhone13, [000008C8919B1340][000008C8919EA000 50] iPhone13Pro, [000008C8919B3F00][000008C8919EC800 50] iPhone13ProMax, [000008C8919B3B80][000008C8917D2800 50] iPadPro105, [000008C8919B5B00][000008C8919F0000 50] iPadPro129, [000008C8919B7A80][000008C8919F5000 50] iPadPro97, [000008C8919B4600][000008C8919F7800 50] iPadPro2_129, [000008C8919B6E40][000008C8919FA000 50] iPad5, [000008C8919B4EC0][000008C8919FC800 50] iPad6, [000008C8919B0A80][000008C8919E2800 50] iPad7, [000008C8919B3800][000008C891A00000 50] iPad8, [000008C8919B0700][000008C891A05000 50] iPad9, [000008C8919B3100][000008C891A07800 50] iPadPro11, [000008C8919B6AC0][000008C891A0A000 50] iPadPro2_11, [000008C8919B5240][000008C891A0C800 50] iPadPro3_11, [000008C8919B6040][000008C8919F2800 50] iPadPro3_129, [000008C8919B4D00][000008C891A10000 50] iPadPro4_129, [000008C8919B7E00][000008C891A15000 50] iPadPro5_129, [000008C8919B4B40][000008C891A17800 50] AppleTV, [000008C8919B7700][000008C891A1A000 50] AppleTV4K, [000008C8919B5E80][000008C891A1C800 50] TVOS, [000008C8919BA640][000008C891A40000 50] Mac, [000008C8919BA9C0][000008C891A42800 50] MacEditor, [000008C8919BAB80][000008C891A47800 50] MacClient, [000008C8919B16C0][000008C891A4A000 50] MacServer, [000008C8919BAD40][000008C891A02800 50] Linux, [000008C8919BB0C0][000008C891A12800 50] LinuxEditor, [000008C8919B6C80][000008C891A4C800 50] LinuxArm64Editor, [000008C8919B1A40][000008C891A20000 50] LinuxArm64, [000008C8919B0C40][000008C891A25000 50] LinuxClient, [000008C8919B1DC0][000008C891A27800 50] LinuxArm64Client, [000008C8919B7540][000008C891A2A000 50] LinuxServer, [000008C8919BA100][000008C891A2C800 50] LinuxArm64Server, [000008C8919B8180][000008C891A45000 50] Android, [000008C8919B55C0][000008C891A30000 50] Android_Preview_OpenGL, [000008C8919B9300][000008C891A35000 50] Android_Preview_Vulkan, [000008C8919B94C0][000008C891A37800 50] Android_Low, [000008C8919B63C0][000008C891A3A000 50] Android_Mid, [000008C8919BA480][000008C891A3C800 50] Android_High, [000008C8919B9D80][000008C891A22800 50] Android_Default, [000008C8919BBB40][000008C891A50000 50] Android_Adreno4xx, [000008C8919B9A00][000008C891A55000 50] Android_Adreno5xx_Low, [000008C8919B8C00][000008C891A57800 50] Android_Adreno5xx, [000008C8919B8F80][000008C891A5A000 50] Android_Adreno6xx, [000008C8919B39C0][000008C891A5C800 50] Android_Adreno6xx_Vulkan, [000008C8919B9840][000008C891A32800 50] Android_Adreno7xx, [000008C8919B9140][000008C891A60000 50] Android_Adreno7xx_Vulkan, [000008C8919B2A00][000008C891A65000 50] Android_Mali_T6xx, [000008C8919B9F40][000008C891A67800 50] Android_Mali_T7xx, [000008C8919B86C0][000008C891A6A000 50] Android_Mali_T8xx, [000008C8919BB280][000008C891A6C800 50] Android_Mali_G71, [000008C8919B1C00][000008C891A52800 50] Android_Mali_G72, [000008C8919BB7C0][000008C891A70000 50] Android_Mali_G72_Vulkan, [000008C8919B9680][000008C891A75000 50] Android_Mali_G76, [000008C8919BC400][000008C891A77800 50] Android_Mali_G76_Vulkan, [000008C8919BA800][000008C891A7A000 50] Android_Mali_G77, [000008C8919B8500][000008C891A7C800 50] Android_Mali_G77_Vulkan, [000008C8919B08C0][000008C891A62800 50] Android_Mali_G78, [000008C8919BC5C0][000008C891A80000 50] Android_Mali_G78_Vulkan, [000008C8919B47C0][000008C891A85000 50] Android_Mali_G710, [000008C8919BC940][000008C891A87800 50] Android_Mali_G710_Vulkan, [000008C8919BBD00][000008C891A8A000 50] Android_Xclipse_920, [000008C8919BCCC0][000008C891A8C800 50] Android_Xclipse_920_Vulkan, [000008C8919B2BC0][000008C891A72800 50] Android_Vulkan_SM5, [000008C8919BD200][000008C891A90000 50] Android_PowerVR_G6xxx, [000008C8919B7380][000008C891A95000 50] Android_PowerVR_GT7xxx, [000008C8919BDAC0][000008C891A97800 50] Android_PowerVR_GE8xxx, [000008C8919B0E00][000008C891A9A000 50] Android_PowerVR_GM9xxx, [000008C8919BCB00][000008C891A9C800 50] Android_PowerVR_GM9xxx_Vulkan, [000008C8919B01C0][000008C891A82800 50] Android_TegraK1, [000008C8919BDC80][000008C891AA0000 50] Android_Unknown_Vulkan, [000008C8919BC080][000008C891AA5000 50] Oculus_Quest, [000008C8919BE380][000008C891AA7800 50] Oculus_Quest2, [000008C8919B8880][000008C891AAA000 50] HoloLens, 
+[2022.04.24-14.55.06:675][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.04.24-14.55.06:683][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.04.24-14.55.06:683][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.04.24-14.55.06:683][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.04.24-14.55.06:684][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.04.24-14.55.06:684][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.04.24-14.55.06:820][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.04.24-14.55.07:419][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.24-14.55.07:419][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.24-14.55.07:419][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.24-14.55.07:419][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.24-14.55.07:419][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.24-14.55.07:526][  0]LogNetVersion: Trotsky 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2749399416)
+[2022.04.24-14.55.08:178][  0]LogSlate: Border
+[2022.04.24-14.55.08:178][  0]LogSlate: BreadcrumbButton
+[2022.04.24-14.55.08:178][  0]LogSlate: Default
+[2022.04.24-14.55.08:178][  0]LogSlate: Icons.Save
+[2022.04.24-14.55.08:178][  0]LogSlate: Icons.Toolbar.Settings
+[2022.04.24-14.55.08:178][  0]LogSlate: ListView
+[2022.04.24-14.55.08:178][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.04.24-14.55.08:178][  0]LogSlate: SoftwareCursor_Grab
+[2022.04.24-14.55.08:178][  0]LogSlate: TableView.DarkRow
+[2022.04.24-14.55.08:178][  0]LogSlate: TableView.Row
+[2022.04.24-14.55.08:178][  0]LogSlate: TreeView
+[2022.04.24-14.55.08:971][  0]SourceControl: Source control is disabled
+[2022.04.24-14.55.09:084][  0]SourceControl: Source control is disabled
+[2022.04.24-14.55.09:084][  0]SourceControl: Source control is disabled
+[2022.04.24-14.55.09:386][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.04.24-14.55.09:386][  0]LogUObjectAllocator: 5584248 out of 0 bytes used by permanent object pool.
+[2022.04.24-14.55.09:387][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.24-14.55.11:901][  0]LogPython: Using Python 3.9.7
+[2022.04.24-14.55.13:508][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5710F4E340C28FE7478B488A28B3EBF2 | Instance: 51B2B7F24E1A1E79EAF3F08B2602C378 (DESKTOP-LCKNR43-16440).
+[2022.04.24-14.55.13:788][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.24-14.55.13:852][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.24-14.55.14:494][  0]SourceControl: Source control is disabled
+[2022.04.24-14.55.14:524][  0]SourceControl: Source control is disabled
+[2022.04.24-14.55.14:618][  0]SourceControl: Source control is disabled
+[2022.04.24-14.55.14:690][  0]LogUProjectInfo: Found projects:
+[2022.04.24-14.55.16:512][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.24-14.55.16:959][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.24-14.55.17:126][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.24-14.55.17:126][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.24-14.55.17:714][  0]LogCollectionManager: Loaded 0 collections in 0.003633 seconds
+[2022.04.24-14.55.18:210][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Saved/Collections/' took 0.00s
+[2022.04.24-14.55.18:210][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Content/Developers/pedro/Collections/' took 0.00s
+[2022.04.24-14.55.18:210][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Content/Collections/' took 0.00s
+[2022.04.24-14.55.18:946][  0]LogEngine: Initializing Engine...
+[2022.04.24-14.55.18:975][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.04.24-14.55.19:817][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.24-14.55.19:820][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.24-14.55.19:870][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.24-14.55.19:957][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.24-14.55.19:962][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.24-14.55.20:046][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.24-14.55.20:052][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.24-14.55.20:052][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.04.24-14.55.20:054][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.24-14.55.20:054][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.24-14.55.20:054][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.24-14.55.20:054][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.24-14.55.20:054][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.24-14.55.20:055][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.24-14.55.20:055][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.24-14.55.20:055][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.24-14.55.20:055][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.24-14.55.20:055][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.24-14.55.20:056][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.24-14.55.20:056][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.24-14.55.20:056][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.24-14.55.20:101][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.24-14.55.20:142][  0]LogAudioMixer: Display: Using Audio Hardware Device T2242we (NVIDIA High Definition Audio)
+[2022.04.24-14.55.20:143][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.24-14.55.20:169][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.24-14.55.20:169][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.24-14.55.20:170][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.04.24-14.55.20:170][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.04.24-14.55.20:172][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.24-14.55.20:172][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.04.24-14.55.20:172][  0]LogInit: FAudioDevice initialized.
+[2022.04.24-14.55.20:173][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.24-14.55.20:174][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.24-14.55.20:174][  0]LogInit: Texture streaming: Enabled
+[2022.04.24-14.55.20:300][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.04.24-14.55.20:335][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.24-14.55.20:407][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.04.24-14.55.20:449][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.04.24-14.55.20:449][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.04.24-14.55.23:029][  0]LogLiveCoding: Display: First instance in process group "UE_Trotsky_0x1f6ff589", spawning console
+[2022.04.24-14.55.23:029][  0]LogLiveCoding: Display: Waiting for server
+[2022.04.24-14.55.23:029][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.04.24-14.55.23:071][  0]LogInit: Transaction tracking system initialized
+[2022.04.24-14.55.23:289][  0]BlueprintLog: New page: Editor Load
+[2022.04.24-14.55.24:050][  0]LocalizationService: Localization service is disabled
+[2022.04.24-14.55.24:222][  0]TimingProfiler: Initialize
+[2022.04.24-14.55.24:222][  0]TimingProfiler: OnSessionChanged
+[2022.04.24-14.55.24:222][  0]LoadingProfiler: Initialize
+[2022.04.24-14.55.24:222][  0]LoadingProfiler: OnSessionChanged
+[2022.04.24-14.55.24:223][  0]NetworkingProfiler: Initialize
+[2022.04.24-14.55.24:225][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.24-14.55.24:225][  0]MemoryProfiler: Initialize
+[2022.04.24-14.55.24:225][  0]MemoryProfiler: OnSessionChanged
+[2022.04.24-14.55.26:672][  0]LogFileCache: Scanning file cache for directory 'C:/Program Files/Epic Games/Projetos/Trotsky 5.0/Content/' took 0.02s
+[2022.04.24-14.55.26:672][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.04.24-14.55.27:306][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.24-14.55.27:311][  0]SourceControl: Source control is disabled
+[2022.04.24-14.55.27:311][  0]LogUnrealEdMisc: Loading editor; pre map load, took 39.663
+[2022.04.24-14.55.27:313][  0]Cmd: MAP LOAD FILE="../../../../Projetos/Trotsky 5.0/Content/Levels/Leveis_Jogo/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.24-14.55.27:314][  0]LightingResults: New page: Lighting Build
+[2022.04.24-14.55.27:328][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-14.55.27:330][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-14.55.27:330][  0]MapCheck: New page: Map Check
+[2022.04.24-14.55.27:330][  0]LightingResults: New page: Lighting Build
+[2022.04.24-14.55.27:346][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.24-14.55.27:356][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.04.24-14.55.28:073][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\Blueprints\BP_Ghost.uasset: Invalid GameplayTag Character.Ghosts.Ghost1 found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.24-14.55.29:114][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\Widgets\WBP_DialogueManager.uasset: Invalid GameplayTag Character.Initiator found in object K2Node_CallFunction_78.
+[2022.04.24-14.55.29:831][  0]LogBlueprint: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Cameras\BP_FixedCamera.uasset: [Compiler] On Actor Begin Overlap (CollisionVolume)  does not have a valid matching component!
+[2022.04.24-14.55.33:016][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\Blueprint\Dialogue\BP_NPC_Abramovich.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.24-14.55.33:064][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\Blueprint\Dialogue\BP_NPC_Catherine.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.24-14.55.33:224][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\Blueprint\Dialogue\BP_NPC_Gabrielle.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.24-14.55.33:263][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\Blueprint\Dialogue\BP_NPC_Guillaume.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.24-14.55.33:337][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\Blueprint\Dialogue\BP_NPC_Victor.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.24-14.55.34:119][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\Blueprint\Assets\BP_Door_LockPick.uasset: Invalid GameplayTag Door.Slide found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.24-14.55.35:385][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic_2 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.35:385][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Initiator found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.35:385][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic_3 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.35:385][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic_3 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.35:385][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic_3 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.35:385][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Initiator found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.35:386][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.35:386][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Ghosts.Ghost1 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.35:386][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Ghosts.Ghost2 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.35:386][  0]LogGameplayTags: Warning: [AssetLog] C:\Program Files\Epic Games\Projetos\Trotsky 5.0\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Ghosts.Ghost3 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.24-14.55.36:770][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level01'.
+[2022.04.24-14.55.36:770][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.24-14.55.36:770][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.24-14.55.36:770][  0]LogAIModule: Creating AISystem for world Level01
+[2022.04.24-14.55.36:832][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.24-14.55.36:878][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.04.24-14.55.36:879][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.24-14.55.36:880][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.408ms to complete.
+[2022.04.24-14.55.36:880][  0]LogFileHelpers: Loading map 'Level01' took 9.568
+[2022.04.24-14.55.36:914][  0]LogUnrealEdMisc: Total Editor Startup Time, took 49.266
+[2022.04.24-14.55.36:914][  0]LogShaderCompilers: Display: ================================================
+[2022.04.24-14.55.36:914][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.24-14.55.36:914][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.04.24-14.55.36:914][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.04.24-14.55.36:914][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.04.24-14.55.36:914][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.24-14.55.36:914][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.04.24-14.55.36:914][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.04.24-14.55.36:914][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.04.24-14.55.36:915][  0]LogShaderCompilers: Display: ================================================
+[2022.04.24-14.55.37:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-14.55.37:103][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-14.55.37:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-14.55.37:114][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-14.55.37:608][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:608][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.37:615][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:615][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.37:620][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:620][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.37:626][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:626][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.37:635][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:635][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.37:645][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:645][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.37:650][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:650][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.37:654][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:654][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.37:659][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:659][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.37:663][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.04.24-14.55.37:663][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.24-14.55.38:025][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.04.24-14.55.38:176][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.04.24-14.55.38:927][  0]LogSlate: Took 0.006181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.24-14.55.38:941][  0]LogSlate: Took 0.008832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.24-14.55.39:386][  0]LogStall: Startup...
+[2022.04.24-14.55.39:388][  0]LogStall: Startup complete.
+[2022.04.24-14.55.39:456][  0]LogLoad: (Engine Initialization) Total time: 51.81 seconds
+[2022.04.24-14.55.39:456][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.24-14.55.39:523][  0]LogAssetRegistry: Asset discovery search completed in 33.8021 seconds
+[2022.04.24-14.55.39:565][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.04.24-14.55.39:619][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.24-14.55.39:750][  0]LogSlate: Took 0.005992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.24-14.55.40:367][  2]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.24-14.55.44:354][ 14]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-14.57.01:753][246]LogDerivedDataCache: C:/Users/pedro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.942 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.24-15.06.59:419][ 27]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.04.24-15.13.17:594][156]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.04.24-15.22.53:408][875]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.04.24-15.30.33:446][248]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.04.24-15.33.09:127][712]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Alto-falantes (2- High Definition Audio Device), InstanceID=1
+[2022.04.24-15.33.09:127][712]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5360
+[2022.04.24-15.33.09:460][712]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{88deb12d-fcf3-4238-aea6-645330b1d5de}, Name=Alto-falantes (2- High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=9.63
+[2022.04.24-15.33.09:460][712]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.04.24-15.33.09:463][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.24-15.33.12:464][721]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.04.24-17.16.05:158][722]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T2242we (NVIDIA High Definition Audio), InstanceID=1
+[2022.04.24-17.16.05:300][723]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5360
+[2022.04.24-17.16.05:300][723]LogHttp: Warning: 000008C8D0E80A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7BAA9544-428C-CF13-B3FC-E880A671D26A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.0-19505902%2B%2B%2BUE5%2BRelease-5.0&UserID=8933689b4101cc063ad606a7680a4486%7C48e789388df64bfabbabe0c41deeafc9%7C5becf77d-33ae-455e-9c66-c0467f2c1ef3&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.24-17.16.05:300][723]LogHttp: Warning: 000008C8D0E80A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.04.24-17.16.05:300][723]LogHttp: Warning: 000008C8D0E80A00: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2022.04.24-17.16.05:300][723]LogHttp: Warning: 000008C8D0E80A00: libcurl info message cache 1 (Closing connection 0)
+[2022.04.24-17.16.05:300][723]LogHttp: Warning: 000008C8D0E80A00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.04.24-17.16.05:300][723]LogHttp: Warning: 000008C8D0E80A00: libcurl info message cache 3 (Closing connection 1)
+[2022.04.24-17.16.05:300][723]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7BAA9544-428C-CF13-B3FC-E880A671D26A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.0-19505902%2B%2B%2BUE5%2BRelease-5.0&UserID=8933689b4101cc063ad606a7680a4486%7C48e789388df64bfabbabe0c41deeafc9%7C5becf77d-33ae-455e-9c66-c0467f2c1ef3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.24-17.16.05:501][723]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9ba06d0a-b4b0-49bb-8514-eca8ff266bc9}, Name=T2242we (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=76.18
+[2022.04.24-17.16.05:501][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.04.24-17.16.05:506][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.24-17.17.01:458][891]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Alto-falantes (2- High Definition Audio Device), InstanceID=1
+[2022.04.24-17.17.01:458][891]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5360
+[2022.04.24-17.17.01:791][891]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{88deb12d-fcf3-4238-aea6-645330b1d5de}, Name=Alto-falantes (2- High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=47.82
+[2022.04.24-17.17.01:791][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.04.24-17.17.01:793][892]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.24-17.17.36:630][996]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T2242we (NVIDIA High Definition Audio), InstanceID=1
+[2022.04.24-17.17.36:630][996]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5360
+[2022.04.24-17.17.36:965][996]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9ba06d0a-b4b0-49bb-8514-eca8ff266bc9}, Name=T2242we (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.42
+[2022.04.24-17.17.36:965][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.04.24-17.17.36:970][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.24-17.18.54:839][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.19.01:436][270]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.19.36:757][226]LogSlate: Took 0.006554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.24-17.19.36:783][226]LogSlate: Took 0.005886 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.24-17.20.02:233][835]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.24-17.20.02:251][835]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.24-17.20.02:262][836]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.04.24-17.20.06:105][189]LogContentBrowser: Attempting asset rename: NewFolder -> Wall_Geo
+[2022.04.24-17.20.06:106][189]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.24-17.20.17:098][473]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\10\wall_center_01_geo.fbx)
+[2022.04.24-17.20.17:137][473]LogFbx: Loading FBX Scene from G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\10\wall_center_01_geo.fbx
+[2022.04.24-17.20.17:149][473]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.24-17.20.18:555][473]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.24-17.20.18:589][473]LogMaterial: Display: Missing cached shadermap for wall_center_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C672765794E4788D67A4FDC1B40D5B22E047E202), compiling. 
+[2022.04.24-17.20.18:607][473]LogFbx: Display: Triangulating static mesh wall_center_01_geo
+[2022.04.24-17.20.18:612][473]LogStaticMesh: Display: Building static mesh wall_center_01_geo...
+[2022.04.24-17.20.18:622][473]LogStaticMesh: Built static mesh [0.01s] /Game/Modular/Assets/Wall_Geo/wall_center_01_geo.wall_center_01_geo
+[2022.04.24-17.20.18:650][473]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: ================================================
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Shaders Compiled: 2
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Jobs assigned 4, completed 2 (50.00%)
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Time job spent in pending queue: average 1.07 s, longest 2.10 s
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Job execution time: average 2.07 s, max 2.07 s
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Job life time (pending + execution): average 2.11 s, max 2.11
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.11 s
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Average processing rate: 0.95 jobs/sec
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Effective parallelization: 0.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 50.44% of total time (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 49.56% of total time (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2022.04.24-17.20.21:188][644]LogShaderCompilers: Display: ================================================
+[2022.04.24-17.20.23:233][832]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.20.23:238][832]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.20.25:944][ 92]LogStatusBar: Looking status bar with open content browser drawer...
+[2022.04.24-17.20.25:944][ 92]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2022.04.24-17.20.30:302][334]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\11\wall_center_02_geo.fbx)
+[2022.04.24-17.20.30:330][334]LogFbx: Loading FBX Scene from G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\11\wall_center_02_geo.fbx
+[2022.04.24-17.20.30:339][334]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.24-17.20.31:587][334]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.24-17.20.31:609][334]LogFbx: Display: Triangulating static mesh wall_center_02_geo
+[2022.04.24-17.20.31:615][334]LogStaticMesh: Display: Building static mesh wall_center_02_geo...
+[2022.04.24-17.20.31:622][334]LogStaticMesh: Built static mesh [0.01s] /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo
+[2022.04.24-17.20.31:641][334]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.24-17.20.37:034][602]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.20.37:040][602]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.20.39:179][730]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\12\wall_center_03_geo.fbx)
+[2022.04.24-17.20.39:206][730]LogFbx: Loading FBX Scene from G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\12\wall_center_03_geo.fbx
+[2022.04.24-17.20.39:215][730]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.24-17.20.40:102][730]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.24-17.20.40:126][730]LogMaterial: Display: Missing cached shadermap for shared_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B8A68C456425D89C5291E26915025FCF150C72C1), compiling. 
+[2022.04.24-17.20.40:141][730]LogFbx: Display: Triangulating static mesh wall_center_03_geo
+[2022.04.24-17.20.40:147][730]LogStaticMesh: Display: Building static mesh wall_center_03_geo...
+[2022.04.24-17.20.40:155][730]LogStaticMesh: Built static mesh [0.01s] /Game/Modular/Assets/Wall_Geo/wall_center_03_geo.wall_center_03_geo
+[2022.04.24-17.20.40:175][730]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.24-17.20.41:649][865]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.20.41:654][865]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.20.50:307][429]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\13\wall_center_04_geo.fbx)
+[2022.04.24-17.20.50:333][429]LogFbx: Loading FBX Scene from G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\13\wall_center_04_geo.fbx
+[2022.04.24-17.20.50:340][429]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.24-17.20.51:447][429]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.24-17.20.51:464][429]LogFbx: Display: Triangulating static mesh wall_center_04_geo
+[2022.04.24-17.20.51:471][429]LogStaticMesh: Display: Building static mesh wall_center_04_geo...
+[2022.04.24-17.20.51:487][429]LogStaticMesh: Built static mesh [0.02s] /Game/Modular/Assets/Wall_Geo/wall_center_04_geo.wall_center_04_geo
+[2022.04.24-17.20.51:499][429]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.24-17.20.53:129][577]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.20.53:134][577]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.21.16:135][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.04.24-17.21.17:340][583]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.24-17.21.17:369][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.04.24-17.23.11:323][291]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\13\wall_center_04_geo.fbx)
+[2022.04.24-17.23.11:351][291]LogFbx: Loading FBX Scene from G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\13\wall_center_04_geo.fbx
+[2022.04.24-17.23.11:359][291]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.24-17.23.12:385][291]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.24-17.23.12:402][291]LogFbx: Display: Triangulating static mesh wall_center_04_geo
+[2022.04.24-17.23.12:429][291]LogStaticMesh: Display: Building static mesh wall_center_04_geo...
+[2022.04.24-17.23.12:445][291]LogStaticMesh: Built static mesh [0.02s] /Game/Modular/Assets/Wall_Geo/wall_center_04_geo.wall_center_04_geo
+[2022.04.24-17.23.12:461][291]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.24-17.23.14:214][456]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.23.14:220][456]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.23.15:829][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.04.24-17.23.16:849][617]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.24-17.23.16:876][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.04.24-17.23.36:403][879]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\13\wall_center_04_geo.fbx)
+[2022.04.24-17.23.36:430][879]LogFbx: Loading FBX Scene from G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\13\wall_center_04_geo.fbx
+[2022.04.24-17.23.36:439][879]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.24-17.23.37:422][879]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.24-17.23.37:445][879]LogMaterial: Display: Missing cached shadermap for wall_center_04_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 61332904058995729535C584721431760943F76C), compiling. 
+[2022.04.24-17.23.37:460][879]LogFbx: Display: Triangulating static mesh wall_center_04_geo
+[2022.04.24-17.23.37:464][879]LogStaticMesh: Display: Building static mesh wall_center_04_geo...
+[2022.04.24-17.23.37:480][879]LogStaticMesh: Built static mesh [0.02s] /Game/Modular/Assets/Wall_Geo/wall_center_04_geo.wall_center_04_geo
+[2022.04.24-17.23.37:498][879]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.24-17.23.38:850][993]LogShaderCompilers: Display: ================================================
+[2022.04.24-17.23.38:850][993]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.24-17.23.38:850][993]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2022.04.24-17.23.38:850][993]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 3 distinct outputs (30.00%)
+[2022.04.24-17.23.38:850][993]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.04.24-17.23.38:850][993]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.24-17.23.38:850][993]LogShaderCompilers: Display: Shaders Compiled: 6
+[2022.04.24-17.23.38:850][993]LogShaderCompilers: Display: Jobs assigned 12, completed 10 (83.33%)
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Average time worker was idle: 38.85 s
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Time job spent in pending queue: average 0.76 s, longest 2.10 s
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 2.07 s
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Job life time (pending + execution): average 1.76 s, max 2.92
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.13 s
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Average processing rate: 1.63 jobs/sec
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Effective parallelization: 1.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.87 sec, max 0.91 sec, min 0.86 sec)
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.84 sec, max 0.86 sec, min 0.83 sec)
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.77 sec, max 0.79 sec, min 0.76 sec)
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 35.69% of total time (compiled    3 times, average 0.87 sec, max 0.91 sec, min 0.86 sec)
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 34.38% of total time (compiled    3 times, average 0.84 sec, max 0.86 sec, min 0.83 sec)
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display:                                                 FLumenCardVS - 21.04% of total time (compiled    2 times, average 0.77 sec, max 0.79 sec, min 0.76 sec)
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.89% of total time (compiled    2 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2022.04.24-17.23.38:851][993]LogShaderCompilers: Display: ================================================
+[2022.04.24-17.23.49:904][123]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-17.24.03:703][269]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\10\wall_center_01_geo.fbx)
+[2022.04.24-17.24.03:729][269]LogFbx: Loading FBX Scene from G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\10\wall_center_01_geo.fbx
+[2022.04.24-17.24.03:737][269]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.24-17.24.04:783][269]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.24-17.24.04:807][269]LogMaterial: Display: Missing cached shadermap for wall_center_01_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 674DC5AF795B6F9FC371CAD3C4A874F5DEF92A15), compiling. 
+[2022.04.24-17.24.04:822][269]LogFbx: Display: Triangulating static mesh wall_center_01_geo
+[2022.04.24-17.24.04:825][269]LogStaticMesh: Display: Building static mesh wall_center_01_geo...
+[2022.04.24-17.24.04:830][269]LogStaticMesh: Built static mesh [0.01s] /Game/Modular/Assets/Wall_Geo/wall_center_01_geo.wall_center_01_geo
+[2022.04.24-17.24.04:858][269]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.24-17.24.11:321][510]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\11\wall_center_02_geo.fbx)
+[2022.04.24-17.24.11:349][510]LogFbx: Loading FBX Scene from G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\11\wall_center_02_geo.fbx
+[2022.04.24-17.24.11:357][510]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.24-17.24.12:412][510]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.24-17.24.12:437][510]LogMaterial: Display: Missing cached shadermap for wall_center_02_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B0EA87BA9318FD33F0A3078B139F5D76A32B6487), compiling. 
+[2022.04.24-17.24.12:451][510]LogFbx: Display: Triangulating static mesh wall_center_02_geo
+[2022.04.24-17.24.12:457][510]LogStaticMesh: Display: Building static mesh wall_center_02_geo...
+[2022.04.24-17.24.12:466][510]LogStaticMesh: Built static mesh [0.01s] /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo
+[2022.04.24-17.24.12:485][510]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.24-17.24.17:188][714]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\12\wall_center_03_geo.fbx)
+[2022.04.24-17.24.17:214][714]LogFbx: Loading FBX Scene from G:\Meu Drive\TCC\Modelagem\Modular - Locomotive\Assets\Wall_Geo\12\wall_center_03_geo.fbx
+[2022.04.24-17.24.17:223][714]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.24-17.24.18:331][714]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.24-17.24.18:355][714]LogMaterial: Display: Missing cached shadermap for wall_center_03_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5E6BA156C1B8A3C596F9F309E04416BD3E6BCFB0), compiling. 
+[2022.04.24-17.24.18:394][714]LogMaterial: Display: Missing cached shadermap for shared_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4A30B11274095E9598EFE5AC63944D96A2EE4528), compiling. 
+[2022.04.24-17.24.18:410][714]LogFbx: Display: Triangulating static mesh wall_center_03_geo
+[2022.04.24-17.24.18:416][714]LogStaticMesh: Display: Building static mesh wall_center_03_geo...
+[2022.04.24-17.24.18:424][714]LogStaticMesh: Built static mesh [0.01s] /Game/Modular/Assets/Wall_Geo/wall_center_03_geo.wall_center_03_geo
+[2022.04.24-17.24.18:442][714]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.04.24-17.24.43:144][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo
+[2022.04.24-17.24.43:144][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo
+[2022.04.24-17.24.43:145][219]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo as actor: StaticMeshActor /Game/Levels/Leveis_Jogo/Level01.Level01:PersistentLevel.StaticMeshActor_629
+[2022.04.24-17.24.43:872][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo
+[2022.04.24-17.24.43:872][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo
+[2022.04.24-17.24.43:873][293]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo as actor: StaticMeshActor /Game/Levels/Leveis_Jogo/Level01.Level01:PersistentLevel.StaticMeshActor_630
+[2022.04.24-17.24.44:653][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo
+[2022.04.24-17.24.44:653][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo
+[2022.04.24-17.24.44:655][363]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_02_geo.wall_center_02_geo as actor: StaticMeshActor /Game/Levels/Leveis_Jogo/Level01.Level01:PersistentLevel.StaticMeshActor_631
+[2022.04.24-17.24.44:713][364]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.24.45:421][447]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.25.11:391][273]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.11:441][279]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.11:466][282]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.11:500][286]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.11:541][291]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.11:641][303]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.11:791][321]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.11:883][332]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.12:008][347]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.12:568][412]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.13:925][553]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.14:279][560]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.14:509][585]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.14:527][587]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.14:774][616]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.14:792][618]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.14:845][621]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.16:744][829]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.25.21:731][411]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.21:748][413]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.21:798][419]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.21:831][423]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:089][454]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:139][460]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:181][465]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:247][473]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:272][476]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:482][501]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:532][507]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:548][509]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:823][542]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:848][545]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:873][548]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:915][553]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.22:931][555]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.23:306][600]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.23:436][613]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.23:844][662]Cmd: TRANSACTION UNDO
+[2022.04.24-17.25.23:844][662]LogEditorTransaction: Undo Move Elements
+[2022.04.24-17.25.23:907][663]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.24:937][729]Cmd: MODE GRID=1
+[2022.04.24-17.25.25:128][748]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.25.32:272][504]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.25.34:312][691]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.34:401][700]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.35:284][785]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.37:957][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_01_geo.wall_center_01_geo
+[2022.04.24-17.25.37:957][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_01_geo.wall_center_01_geo
+[2022.04.24-17.25.37:958][  7]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_01_geo.wall_center_01_geo as actor: StaticMeshActor /Game/Levels/Leveis_Jogo/Level01.Level01:PersistentLevel.StaticMeshActor_632
+[2022.04.24-17.25.39:226][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_01_geo.wall_center_01_geo
+[2022.04.24-17.25.39:227][137]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_01_geo.wall_center_01_geo
+[2022.04.24-17.25.39:228][137]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_01_geo.wall_center_01_geo as actor: StaticMeshActor /Game/Levels/Leveis_Jogo/Level01.Level01:PersistentLevel.StaticMeshActor_633
+[2022.04.24-17.25.39:307][138]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:272][221]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:312][225]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:342][228]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:362][230]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:393][233]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:434][237]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:505][244]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:557][249]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:608][254]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:670][260]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:770][270]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:911][284]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.40:991][292]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.41:606][349]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.42:264][413]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.42:284][415]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.42:810][435]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.42:976][440]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.43:001][443]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.43:071][450]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.43:133][456]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.43:544][492]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.43:602][499]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.25.54:019][485]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.54:355][518]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.54:870][565]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.57:049][781]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.57:088][785]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.57:138][790]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.57:229][799]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.57:567][833]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.57:946][871]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.25.58:375][910]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.03:495][393]Cmd: DELETE
+[2022.04.24-17.26.03:495][393]Cmd: ACTOR DELETE
+[2022.04.24-17.26.03:598][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.26.03:610][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.04.24-17.26.03:612][393]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2022.04.24-17.26.04:581][475]Cmd: DELETE
+[2022.04.24-17.26.04:581][475]Cmd: ACTOR DELETE
+[2022.04.24-17.26.04:605][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.26.04:622][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.24-17.26.04:624][475]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.04.24-17.26.07:699][752]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.26.10:213][972]Cmd: MODE GRID=0
+[2022.04.24-17.26.11:448][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.11:540][ 99]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.11:866][131]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.11:988][143]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.12:019][146]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.12:493][192]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.12:555][198]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.12:585][201]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.12:657][208]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.13:395][280]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.13:476][288]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.13:877][327]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.14:473][381]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.16:784][605]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.16:827][609]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.16:857][612]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.16:929][619]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.17:081][634]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.17:101][636]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.17:224][648]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.17:449][666]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.21:877][ 86]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.21:898][ 88]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.21:918][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.21:939][ 92]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:020][100]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:040][102]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:133][111]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:184][116]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:205][118]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:226][120]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:257][123]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:277][125]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:339][131]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:380][135]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:421][139]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:502][147]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:553][152]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:737][170]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:809][173]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.22:909][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.26.25:309][377]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.25:443][379]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.26:153][439]Cmd: TRANSACTION UNDO
+[2022.04.24-17.26.26:153][439]LogEditorTransaction: Undo Move Elements
+[2022.04.24-17.26.26:239][440]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.27:007][478]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.27:050][482]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.27:186][495]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.27:354][511]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.27:417][517]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.27:523][527]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.27:607][535]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.27:810][554]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.27:957][568]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.28:683][633]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.29:648][723]Cmd: MODE GRID=1
+[2022.04.24-17.26.33:872][117]Cmd: DELETE
+[2022.04.24-17.26.33:872][117]Cmd: ACTOR DELETE
+[2022.04.24-17.26.33:897][117]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.26.33:914][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.04.24-17.26.33:916][117]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.04.24-17.26.35:350][246]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.35:781][284]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.26.35:782][284]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.37:712][457]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.37:752][461]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.37:773][463]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.38:080][493]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.38:557][536]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.41:375][762]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.41:924][807]Cmd: DELETE
+[2022.04.24-17.26.41:924][807]Cmd: ACTOR DELETE
+[2022.04.24-17.26.41:949][807]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.26.41:967][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.04.24-17.26.41:968][807]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.04.24-17.26.42:732][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.26.44:257][  5]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.44:752][ 53]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.26.45:103][ 83]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.00:215][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_04_geo.wall_center_04_geo
+[2022.04.24-17.27.00:215][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_04_geo.wall_center_04_geo
+[2022.04.24-17.27.00:215][259]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_04_geo.wall_center_04_geo as actor: StaticMeshActor /Game/Levels/Leveis_Jogo/Level01.Level01:PersistentLevel.StaticMeshActor_636
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: ================================================
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Total job queries 35, among them cache hits 5 (14.29%)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Tracking 29 distinct input hashes that result in 4 distinct outputs (13.79%)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Shaders Compiled: 12
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Jobs assigned 30, completed 29 (96.67%)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Average time worker was idle: 27.68 s
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Time job spent in pending queue: average 0.53 s, longest 2.10 s
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 2.07 s
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Job life time (pending + execution): average 1.52 s, max 2.92
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.68 s
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Average processing rate: 1.74 jobs/sec
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Effective parallelization: 1.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.87 sec, max 0.91 sec, min 0.84 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.86 sec, max 0.86 sec, min 0.85 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.83 sec, max 0.86 sec, min 0.80 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.82 sec, max 0.82 sec, min 0.81 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 0.80 sec, max 0.84 sec, min 0.76 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.60% of total time (compiled    6 times, average 0.87 sec, max 0.91 sec, min 0.84 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.63% of total time (compiled    6 times, average 0.83 sec, max 0.86 sec, min 0.80 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:                                                 FLumenCardVS - 22.64% of total time (compiled    6 times, average 0.80 sec, max 0.84 sec, min 0.76 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 11.63% of total time (compiled    3 times, average 0.82 sec, max 0.82 sec, min 0.81 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.37% of total time (compiled    6 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2022.04.24-17.27.01:382][375]LogShaderCompilers: Display: ================================================
+[2022.04.24-17.27.01:483][382]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_04_geo.wall_center_04_geo
+[2022.04.24-17.27.01:483][382]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_04_geo.wall_center_04_geo
+[2022.04.24-17.27.01:485][382]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular/Assets/Wall_Geo/wall_center_04_geo.wall_center_04_geo as actor: StaticMeshActor /Game/Levels/Leveis_Jogo/Level01.Level01:PersistentLevel.StaticMeshActor_637
+[2022.04.24-17.27.01:563][383]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.02:521][465]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.02:553][468]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.02:573][470]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.02:593][472]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.02:634][476]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.02:766][489]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.02:819][494]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.02:870][499]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.02:921][504]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.03:468][558]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.03:814][592]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.04:192][625]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.04:343][641]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.27.06:212][811]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.06:874][877]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.07:185][908]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.08:170][  6]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.08:321][ 21]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.08:372][ 26]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.08:392][ 28]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.08:412][ 30]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.08:432][ 32]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.08:452][ 34]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.08:703][ 59]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.08:724][ 61]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.09:025][ 91]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.10:260][214]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.10:672][255]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.10:946][278]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.12:261][403]Cmd: MODE GRID=0
+[2022.04.24-17.27.13:358][511]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.13:658][541]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.13:749][550]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.13:768][552]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.13:839][559]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.13:870][562]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.13:889][564]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.13:920][567]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.13:979][573]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.14:019][577]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.14:321][607]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.14:412][616]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.14:633][638]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.14:683][643]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.14:753][650]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.15:073][682]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.15:338][704]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:300][991]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:320][993]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:340][995]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:390][  0]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:441][  5]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:602][ 21]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:652][ 26]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:682][ 29]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:722][ 33]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:752][ 36]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:822][ 43]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:872][ 48]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.18:953][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.19:284][ 89]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.19:384][ 99]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.19:456][106]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.19:575][118]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.19:956][156]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.20:751][231]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.22:310][378]Cmd: DELETE
+[2022.04.24-17.27.22:310][378]Cmd: ACTOR DELETE
+[2022.04.24-17.27.22:334][378]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.27.22:352][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.04.24-17.27.22:353][378]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.04.24-17.27.28:458][957]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.28:528][964]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.28:579][969]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.28:599][971]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.28:711][982]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.28:804][991]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.29:036][ 14]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.29:665][ 76]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.30:112][116]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.46:368][638]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.46:453][646]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.46:569][657]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.46:590][659]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.46:673][667]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.46:748][674]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.46:883][687]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.46:945][693]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.46:997][698]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.47:070][705]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.47:522][748]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.48:088][798]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.50:712][ 51]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.50:731][ 53]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.50:763][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.50:999][ 79]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.51:040][ 83]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.51:071][ 86]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.51:091][ 88]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.51:295][108]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.51:367][115]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.51:397][118]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.51:458][124]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.51:490][127]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.51:601][138]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.53:095][284]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.27.55:078][473]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.05:363][429]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.05:424][435]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.06:107][502]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.06:651][555]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.07:386][627]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.07:479][636]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.07:726][660]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.07:746][662]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.07:777][665]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.08:103][697]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.08:491][735]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.08:963][781]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.09:126][797]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.10:171][899]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.10:703][947]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.28.48:688][409]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.29.07:621][119]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.07:804][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.29.07:869][123]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.10:502][323]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.10:570][326]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.10:586][328]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.10:647][334]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.10:818][346]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.11:782][438]Cmd: MODE GRID=1
+[2022.04.24-17.29.17:385][952]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.17:440][957]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.17:660][977]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.17:703][981]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.17:900][999]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.17:988][  7]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.18:195][ 26]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.18:239][ 30]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.18:644][ 67]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.19:224][116]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.19:278][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.29.22:920][416]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.23:210][422]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.23:235][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.29.25:310][620]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.25:331][622]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.25:384][627]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.25:405][629]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.25:548][643]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.25:620][650]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.25:704][658]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.25:764][664]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.26:206][707]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.27:266][806]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.31:870][209]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.32:152][214]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.29.32:153][214]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.34:549][420]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.34:571][422]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.34:635][428]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.34:956][458]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.34:988][461]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.35:203][481]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.35:268][487]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.35:613][519]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.36:108][561]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.36:204][571]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.29.39:353][855]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.39:817][896]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.41:498][ 58]Cmd: MODE GRID=0
+[2022.04.24-17.29.43:771][273]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.43:802][276]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.43:833][279]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.43:884][284]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.44:558][345]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.45:520][435]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.45:953][444]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:070][448]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:104][452]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:146][456]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:211][462]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:233][464]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:371][477]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:415][481]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:436][483]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:478][487]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:586][497]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:671][505]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:693][507]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:713][509]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:789][516]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:875][524]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.46:940][530]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.47:049][540]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.47:146][549]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.47:243][558]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.47:542][586]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.47:574][589]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.47:606][592]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.47:724][603]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.48:080][636]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.48:187][646]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.48:284][655]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.49:001][718]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.50:267][838]Cmd: DELETE
+[2022.04.24-17.29.50:267][838]Cmd: ACTOR DELETE
+[2022.04.24-17.29.50:290][838]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.29.50:309][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.24-17.29.50:310][838]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.04.24-17.29.50:348][839]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.51:054][903]Cmd: DELETE
+[2022.04.24-17.29.51:055][903]Cmd: ACTOR DELETE
+[2022.04.24-17.29.51:079][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.29.51:096][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.24-17.29.51:098][903]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.04.24-17.29.51:107][904]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.51:689][955]Cmd: DELETE
+[2022.04.24-17.29.51:689][955]Cmd: ACTOR DELETE
+[2022.04.24-17.29.51:713][955]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.29.51:730][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.24-17.29.51:732][955]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.04.24-17.29.51:768][956]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.57:890][487]Cmd: MODE GRID=1
+[2022.04.24-17.29.59:368][598]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.59:569][602]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.59:733][607]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.29.59:742][608]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.30.01:444][753]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.01:495][758]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.01:515][760]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.01:567][765]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.01:608][769]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.01:658][774]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.01:720][780]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.02:008][808]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.02:294][836]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.02:642][866]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.02:701][873]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.30.06:647][221]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.07:109][231]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.07:393][258]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.07:481][266]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.07:558][273]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.07:787][294]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.08:217][333]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.08:642][368]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.14:104][872]Cmd: DELETE
+[2022.04.24-17.30.14:105][872]Cmd: ACTOR DELETE
+[2022.04.24-17.30.14:129][872]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.30.14:147][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.24-17.30.14:148][872]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.04.24-17.30.15:029][950]Cmd: DELETE
+[2022.04.24-17.30.15:029][950]Cmd: ACTOR DELETE
+[2022.04.24-17.30.15:053][950]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.30.15:070][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.24-17.30.15:072][950]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.04.24-17.30.17:345][159]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.17:374][162]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.18:060][186]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.18:261][202]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.30.18:262][202]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.20:292][378]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.20:377][386]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.21:068][447]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.22:882][618]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.22:915][621]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.23:148][643]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.23:443][671]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.23:831][704]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.25:058][817]Cmd: DELETE
+[2022.04.24-17.30.25:058][817]Cmd: ACTOR DELETE
+[2022.04.24-17.30.25:083][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.30.25:100][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.04.24-17.30.25:101][817]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.04.24-17.30.32:027][466]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.30.33:739][611]Cmd: DELETE
+[2022.04.24-17.30.33:739][611]Cmd: ACTOR DELETE
+[2022.04.24-17.30.33:763][611]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.24-17.30.33:781][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.24-17.30.33:782][611]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.04.24-17.30.35:533][753]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.35:851][761]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.35:896][766]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.36:089][784]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.36:142][789]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.36:400][813]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.36:432][816]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.36:496][822]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.36:819][852]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.36:862][856]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.36:992][868]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.37:793][939]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.42:622][374]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.42:652][377]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.42:673][379]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.42:693][381]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.42:714][383]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.42:745][386]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.42:796][391]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.43:100][420]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.43:163][426]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.43:246][434]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.43:266][436]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.43:671][475]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.43:691][477]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.43:753][483]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.44:024][509]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.44:066][513]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.44:099][516]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.44:316][537]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.44:430][548]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.45:051][604]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.45:657][664]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.04.24-17.30.49:676][ 38]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.24-17.30.59:574][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Leveis_Jogo/Level01" FILE="../../../../Projetos/Trotsky 5.0/Content/Levels/Leveis_Jogo/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.24-17.30.59:591][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.24-17.30.59:601][922]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.008245 seconds
+[2022.04.24-17.30.59:914][922]LogSavePackage: Moving output files for package: /Game/Levels/Leveis_Jogo/Level01
+[2022.04.24-17.30.59:914][922]LogSavePackage: Moving '../../../../Projetos/Trotsky 5.0/Saved/Level012DC972DE4036F783D22AF692A021475B.tmp' to '../../../../Projetos/Trotsky 5.0/Content/Levels/Leveis_Jogo/Level01.umap'
+[2022.04.24-17.30.59:939][922]LogFileHelpers: No new changes to save!
+[2022.04.24-17.30.59:955][922]AssetCheck: New page: Asset Save: Level01
+[2022.04.24-17.30.59:955][922]LogContentValidation: Display: Validating World /Game/Levels/Leveis_Jogo/Level01.Level01
+[2022.04.24-17.31.01:782][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.04.24-17.31.02:777][ 85]LogSlate: Window 'Save Content' being destroyed

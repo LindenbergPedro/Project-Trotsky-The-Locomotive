@@ -1,0 +1,1080 @@
+﻿Log file open, 04/15/22 18:57:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=27596)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Trotsky
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Trotsky.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (20H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="523f528f428d46ab615cf8822ecefaca"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 8.435858
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-52FEAE2441D737789E3D549B99C56DE7
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.12 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.12 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin HDRIBackdrop
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HDRIBackdrop/Content/' mounted to '/HDRIBackdrop/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (20H2) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: R:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.04.15-21.57.33:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.04.15-21.57.33:145][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.04.15-21.57.33:145][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.04.15-21.57.33:145][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.04.15-21.57.33:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.04.15-21.57.33:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.04.15-21.57.33:145][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.04.15-21.57.33:145][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.04.15-21.57.33:145][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.04.15-21.57.33:145][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.04.15-21.57.33:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.04.15-21.57.33:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.04.15-21.57.33:145][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.04.15-21.57.33:145][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.04.15-21.57.33:146][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.04.15-21.57.33:210][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.04.15-21.57.33:210][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.04.15-21.57.33:210][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.04.15-21.57.33:210][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.04.15-21.57.33:210][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.04.15-21.57.33:210][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.04.15-21.57.33:210][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.04.15-21.57.33:210][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.04.15-21.57.33:233][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.04.15-21.57.33:233][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.04.15-21.57.33:233][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.04.15-21.57.33:464][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI:     SubSysId    : 42619da
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI:     SharedSystemMemory : 17105479680 bytes
+[2022.04.15-21.57.33:467][  0]LogD3D11RHI:     AdapterLuid : 0 56267
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_1)
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:       8079/0/16313 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 530
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:     DeviceId    : 1912
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:     SubSysId    : 86941043
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:     Revision    : 0006
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:     SharedSystemMemory : 17105479680 bytes
+[2022.04.15-21.57.33:671][  0]LogD3D11RHI:     AdapterLuid : 0 59091
+[2022.04.15-21.57.33:708][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_1)
+[2022.04.15-21.57.33:708][  0]LogD3D11RHI:       128/0/16313 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.04.15-21.57.33:708][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.04.15-21.57.33:709][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.04.15-21.57.33:709][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.04.15-21.57.33:709][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.04.15-21.57.33:709][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.04.15-21.57.33:709][  0]LogD3D11RHI:     Revision    : 0000
+[2022.04.15-21.57.33:709][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.04.15-21.57.33:709][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.15-21.57.33:709][  0]LogD3D11RHI:     SharedSystemMemory : 17105479680 bytes
+[2022.04.15-21.57.33:709][  0]LogD3D11RHI:     AdapterLuid : 0 60266
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:       0/0/16313 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:     SubSysId    : 42619da
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:     SharedSystemMemory : 17105479680 bytes
+[2022.04.15-21.57.33:715][  0]LogD3D11RHI:     AdapterLuid : 0 56267
+[2022.04.15-21.57.33:715][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.15-21.57.33:723][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.04.15-21.57.33:724][  0]LogHAL: Display: Platform has ~ 32 GB [34210959360 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.15-21.57.33:725][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.04.15-21.57.33:725][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.04.15-21.57.33:725][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2022.04.15-21.57.33:725][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2022.04.15-21.57.33:725][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.04.15-21.57.33:725][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2022.04.15-21.57.33:725][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2022.04.15-21.57.33:725][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.04.15-21.57.33:725][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.04.15-21.57.33:725][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.04.15-21.57.33:741][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.04.15-21.57.33:741][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2022.04.15-21.57.33:741][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.04.15-21.57.33:741][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.15-21.57.33:758][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.04.15-21.57.33:758][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Saved/Config/WindowsEditor/Editor.ini]
+[2022.04.15-21.57.33:785][  0]LogInit: Computer: DESKTOP-BG3I64P
+[2022.04.15-21.57.33:785][  0]LogInit: User: PedroMesquita
+[2022.04.15-21.57.33:785][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.04.15-21.57.33:785][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.15-21.57.33:785][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.04.15-21.57.33:785][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.04.15-21.57.33:785][  0]LogMemory: Process Physical Memory: 252.41 MB used, 258.51 MB peak
+[2022.04.15-21.57.33:785][  0]LogMemory: Process Virtual Memory: 199.41 MB used, 199.41 MB peak
+[2022.04.15-21.57.33:785][  0]LogMemory: Physical Memory: 11229.70 MB used,  21396.42 MB free, 32626.11 MB total
+[2022.04.15-21.57.33:785][  0]LogMemory: Virtual Memory: 16957.75 MB used,  53300.36 MB free, 70258.11 MB total
+[2022.04.15-21.57.33:785][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.04.15-21.57.34:181][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.15-21.57.34:656][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.04.15-21.57.34:688][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.04.15-21.57.34:688][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.04.15-21.57.35:130][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.15-21.57.35:258][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.04.15-21.57.35:258][  0]LogWindowsTextInputMethodSystem:   - Português (Brasil) - (Keyboard).
+[2022.04.15-21.57.35:258][  0]LogWindowsTextInputMethodSystem:   - Português (Brasil) - (Keyboard).
+[2022.04.15-21.57.35:258][  0]LogWindowsTextInputMethodSystem:   - Português (Brasil) - Correção de Entrada por Toque (TSF IME).
+[2022.04.15-21.57.35:258][  0]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2022.04.15-21.57.35:649][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.15-21.57.35:649][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.15-21.57.40:034][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.15-21.57.40:034][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.15-21.57.40:034][  0]LogWindows: EnumDisplayDevices:
+[2022.04.15-21.57.40:034][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2022.04.15-21.57.40:034][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2022.04.15-21.57.40:034][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2022.04.15-21.57.40:035][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2022.04.15-21.57.40:035][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.04.15-21.57.40:035][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.04.15-21.57.40:035][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.04.15-21.57.40:036][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.04.15-21.57.40:036][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     SubSysId    : 42619da
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     SharedSystemMemory : 17105479680 bytes
+[2022.04.15-21.57.40:036][  0]LogD3D11RHI:     AdapterLuid : 0 56267
+[2022.04.15-21.57.40:108][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.15-21.57.40:108][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.15-21.57.40:108][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.04.15-21.57.40:108][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.15-21.57.40:572][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.15-21.57.40:800][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.15-21.57.40:921][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Trotsky.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Intermediate/TurnkeyReport_0.log" -log="R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Intermediate/TurnkeyLog_0.log" -project="R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Trotsky.uproject"  -platform=all'
+[2022.04.15-21.57.40:922][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""R:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Trotsky.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Intermediate/TurnkeyReport_0.log" -log="R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Intermediate/TurnkeyLog_0.log" -project="R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Trotsky.uproject"  -platform=all" ]
+[2022.04.15-21.57.41:289][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.04.15-21.57.41:643][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.04.15-21.57.41:643][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.15-21.57.41:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.15-21.57.41:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.04.15-21.57.41:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.04.15-21.57.41:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.15-21.57.41:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.15-21.57.41:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.15-21.57.41:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.04.15-21.57.41:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.15-21.57.41:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.15-21.57.41:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.04.15-21.57.41:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.04.15-21.57.41:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.04.15-21.57.42:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.15-21.57.42:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.15-21.57.42:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.15-21.57.42:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.04.15-21.57.42:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.15-21.57.42:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.15-21.57.42:128][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.04.15-21.57.42:441][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.15-21.57.42:462][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.04.15-21.57.42:462][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.04.15-21.57.42:462][  0]LogTargetPlatformManager:   ADPCM
+[2022.04.15-21.57.42:462][  0]LogTargetPlatformManager:   PCM
+[2022.04.15-21.57.42:485][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.04.15-21.57.42:485][  0]LogTargetPlatformManager:   BINKA
+[2022.04.15-21.57.42:485][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.04.15-21.57.42:485][  0]LogTargetPlatformManager:   OGG
+[2022.04.15-21.57.42:485][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.04.15-21.57.42:485][  0]LogTargetPlatformManager:   OPUS
+[2022.04.15-21.57.43:691][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   SF_METAL
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.04.15-21.57.43:863][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.04.15-21.57.43:941][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.04.15-21.57.43:941][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.04.15-21.57.43:941][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.04.15-21.57.43:941][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.04.15-21.57.43:941][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.04.15-21.57.43:941][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.04.15-21.57.43:941][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.04.15-21.57.43:946][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.15-21.57.43:967][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Trotsky/Trotsky 5.0 5.0.v3/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.04.15-21.57.43:982][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.04.15-21.57.43:982][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Trotsky/Trotsky 5.0 5.0.v3/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.04.15-21.57.43:998][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.04.15-21.57.44:121][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Trotsky/Trotsky 5.0 5.0.v3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.15-21.57.44:122][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.04.15-21.57.44:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Trotsky/Trotsky 5.0 5.0.v3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.15-21.57.44:122][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.04.15-21.57.44:229][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.04.15-21.57.44:230][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.15-21.57.44:230][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.04.15-21.57.44:291][  0]LogDerivedDataCache: Speed tests for C:/Users/Pedro Mesquita/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2022.04.15-21.57.44:307][  0]LogDerivedDataCache: Display: Performance to C:/Users/Pedro Mesquita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.14ms. RandomReadSpeed=17.62MBs, RandomWriteSpeed=142.07MBs. Assigned SpeedClass 'Local'
+[2022.04.15-21.57.44:342][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Pedro Mesquita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.15-21.57.44:342][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.15-21.57.44:342][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.04.15-21.57.44:348][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.04.15-21.57.44:348][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.04.15-21.57.44:410][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../Trotsky/Trotsky 5.0 5.0.v3/Intermediate/Shaders/WorkingDirectory/2544/).
+[2022.04.15-21.57.44:411][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Pedro Mesquita/AppData/Local/Temp/UnrealShaderWorkingDir/FF39A44E44CDC9ADCD84388114F40854/'.
+[2022.04.15-21.57.44:411][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.15-21.57.44:415][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.04.15-21.57.54:551][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.04.15-21.57.54:551][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.15-21.57.54:676][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.15-21.57.55:350][  0]LogAssetRegistry: FAssetRegistry took 0.0211 seconds to start up
+[2022.04.15-21.57.55:387][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.04.15-21.57.58:015][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.04.15-21.57.58:035][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.04.15-21.57.58:461][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.15-21.57.58:462][  0]LogDeviceProfileManager: Active device profile: [000008B4B72A2680][000008B49C725000 50] WindowsEditor
+[2022.04.15-21.57.58:462][  0]LogDeviceProfileManager: Profiles: [000008B4B72A2140][000008B4AAE4C800 50] Windows, [000008B4B72A2680][000008B49C725000 50] WindowsEditor, [000008B4B72A0FC0][000008B4AFDB0000 50] WindowsServer, [000008B4B72A1A40][000008B4B7280000 50] WindowsClient, [000008B4B72A0A80][000008B4B7285000 50] IOS, [000008B4B72A0E00][000008B4B7287800 50] iPadAir2, [000008B4B72A4EC0][000008B4B728C800 50] IPadPro, [000008B4B72A5240][000008B4B728A000 50] iPadAir3, [000008B4B72A1C00][000008B4AFDB7800 50] iPadAir4, [000008B4B72A3D40][000008B4B72C0000 50] iPadMini4, [000008B4B72A4600][000008B4B72C5000 50] iPadMini5, [000008B4B72A0700][000008B4B72C7800 50] iPadMini6, [000008B4B72A7C40][000008B4B7282800 50] iPhone6S, [000008B4B72A7FC0][000008B4B72CC800 50] iPhone7, [000008B4B72A8340][000008B4B72CA000 50] iPodTouch7, [000008B4B72A1340][000008B4B72D0000 50] iPhone6SPlus, [000008B4B72A4980][000008B4B72D5000 50] iPhone7Plus, [000008B4B72A6740][000008B4B72D7800 50] iPhoneSE, [000008B4B72A71C0][000008B4B72DA000 50] iPhone8, [000008B4B72A2A00][000008B4B72DC800 50] iPhone8Plus, [000008B4B72A0540][000008B4B72C2800 50] iPhoneX, [000008B4B72A7000][000008B4B72F0000 50] iPhoneXS, [000008B4B72A3480][000008B4B72F5000 50] iPhoneXSMax, [000008B4B72A8C00][000008B4B72F7800 50] iPhoneXR, [000008B4B72A3100][000008B4B72FA000 50] iPhone11, [000008B4B72A6AC0][000008B4B72FC800 50] iPhone11Pro, [000008B4B72A4D00][000008B4B72D2800 50] iPhone11ProMax, [000008B4B72A2F40][000008B4B7300000 50] iPhoneSE2, [000008B4B72A0380][000008B4B7305000 50] iPhone12Mini, [000008B4B72A78C0][000008B4B7307800 50] iPhone12, [000008B4B72A1DC0][000008B4B730A000 50] iPhone12Pro, [000008B4B72A5CC0][000008B4B730C800 50] iPhone12ProMax, [000008B4B72A08C0][000008B4B72F2800 50] iPhone13Mini, [000008B4B72A6C80][000008B4B7310000 50] iPhone13, [000008B4B72A6E40][000008B4B7315000 50] iPhone13Pro, [000008B4B72A5080][000008B4B7317800 50] iPhone13ProMax, [000008B4B72A3B80][000008B4B731A000 50] iPadPro105, [000008B4B72A47C0][000008B4B731C800 50] iPadPro129, [000008B4B72A4B40][000008B4B7302800 50] iPadPro97, [000008B4B72A86C0][000008B4B7320000 50] iPadPro2_129, [000008B4B72A2D80][000008B4B7325000 50] iPad5, [000008B4B72A1F80][000008B4B7327800 50] iPad6, [000008B4B72A1500][000008B4B732A000 50] iPad7, [000008B4B72A6200][000008B4B732C800 50] iPad8, [000008B4B72A8500][000008B4B7312800 50] iPad9, [000008B4B72A5E80][000008B4B7330000 50] iPadPro11, [000008B4B72A8880][000008B4B7335000 50] iPadPro2_11, [000008B4B72A8180][000008B4B7337800 50] iPadPro3_11, [000008B4B72A4440][000008B4B733A000 50] iPadPro3_129, [000008B4B72A5400][000008B4B733C800 50] iPadPro4_129, [000008B4B72A16C0][000008B4B7322800 50] iPadPro5_129, [000008B4B72A5780][000008B4B7340000 50] AppleTV, [000008B4B72A24C0][000008B4B7345000 50] AppleTV4K, [000008B4B72A01C0][000008B4B7347800 50] TVOS, [000008B4B72AA2C0][000008B4B734C800 50] Mac, [000008B4B72AA640][000008B4B734A000 50] MacEditor, [000008B4B72A7540][000008B4B7332800 50] MacClient, [000008B4B72A7A80][000008B4B7260000 50] MacServer, [000008B4B72AA800][000008B4B7267800 50] Linux, [000008B4B72A9680][000008B4B7265000 50] LinuxEditor, [000008B4B72A40C0][000008B4B726A000 50] LinuxArm64Editor, [000008B4B72A4280][000008B4B726C800 50] LinuxArm64, [000008B4B72A3800][000008B4B7342800 50] LinuxClient, [000008B4B72A2840][000008B4B7360000 50] LinuxArm64Client, [000008B4B72A39C0][000008B4B7365000 50] LinuxServer, [000008B4B72A5940][000008B4B7367800 50] LinuxArm64Server, [000008B4B72A55C0][000008B4B736A000 50] Android, [000008B4B72AA100][000008B4B736C800 50] Android_Preview_OpenGL, [000008B4B72A6040][000008B4B7262800 50] Android_Preview_Vulkan, [000008B4B72A9F40][000008B4B7370000 50] Android_Low, [000008B4B72A0000][000008B4B7375000 50] Android_Mid, [000008B4B72AAB80][000008B4B7377800 50] Android_High, [000008B4B72A32C0][000008B4B737A000 50] Android_Default, [000008B4B72A2BC0][000008B4B737C800 50] Android_Adreno4xx, [000008B4B72A3F00][000008B4B7362800 50] Android_Adreno5xx_Low, [000008B4B72A7380][000008B4B7380000 50] Android_Adreno5xx, [000008B4B72A9A00][000008B4B7385000 50] Android_Adreno6xx, [000008B4B72A9840][000008B4B7387800 50] Android_Adreno6xx_Vulkan, [000008B4B72AAD40][000008B4B738A000 50] Android_Adreno7xx, [000008B4B72AA9C0][000008B4B738C800 50] Android_Adreno7xx_Vulkan, [000008B4B72AB600][000008B4B7372800 50] Android_Mali_T6xx, [000008B4B72A5B00][000008B4B7390000 50] Android_Mali_T7xx, [000008B4B72A1180][000008B4B7395000 50] Android_Mali_T8xx, [000008B4B72AAF00][000008B4B7397800 50] Android_Mali_G71, [000008B4B72AB7C0][000008B4B739A000 50] Android_Mali_G72, [000008B4B72A9D80][000008B4B739C800 50] Android_Mali_G72_Vulkan, [000008B4B72ABB40][000008B4B7382800 50] Android_Mali_G76, [000008B4B72A3640][000008B4B7290000 50] Android_Mali_G76_Vulkan, [000008B4B72A6900][000008B4B7295000 50] Android_Mali_G77, [000008B4B72AC400][000008B4B7297800 50] Android_Mali_G77_Vulkan, [000008B4B72A6580][000008B4B729A000 50] Android_Mali_G78, [000008B4B72A1880][000008B4B729C800 50] Android_Mali_G78_Vulkan, [000008B4B72A9300][000008B4B7392800 50] Android_Mali_G710, [000008B4B72A7700][000008B4B73A0000 50] Android_Mali_G710_Vulkan, [000008B4B72A8DC0][000008B4B73A5000 50] Android_Xclipse_920, [000008B4B72AA480][000008B4B73A7800 50] Android_Xclipse_920_Vulkan, [000008B4B72ABD00][000008B4B73AA000 50] Android_Vulkan_SM5, [000008B4B72AC5C0][000008B4B73AC800 50] Android_PowerVR_G6xxx, [000008B4B72AD3C0][000008B4B7292800 50] Android_PowerVR_GT7xxx, [000008B4B72AB980][000008B4B73B0000 50] Android_PowerVR_GE8xxx, [000008B4B72A63C0][000008B4B73B5000 50] Android_PowerVR_GM9xxx, [000008B4B72A94C0][000008B4B73B7800 50] Android_PowerVR_GM9xxx_Vulkan, [000008B4B72AD580][000008B4B73BA000 50] Android_TegraK1, [000008B4B72AC080][000008B4B73BC800 50] Android_Unknown_Vulkan, [000008B4B72AD900][000008B4B73A2800 50] Oculus_Quest, [000008B4B72AB440][000008B4B73C0000 50] Oculus_Quest2, [000008B4B72AE380][000008B4B73C5000 50] HoloLens, 
+[2022.04.15-21.57.58:462][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.04.15-21.57.59:052][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.04.15-21.57.59:758][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.04.15-21.57.59:758][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.04.15-21.57.59:758][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.04.15-21.57.59:758][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.04.15-21.57.59:758][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.04.15-21.58.00:513][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.15-21.58.00:513][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.15-21.58.00:513][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.15-21.58.00:513][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.15-21.58.00:513][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.15-21.58.00:910][  0]LogNetVersion: Trotsky 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2749399416)
+[2022.04.15-21.58.02:788][  0]LogSlate: Border
+[2022.04.15-21.58.02:788][  0]LogSlate: BreadcrumbButton
+[2022.04.15-21.58.02:788][  0]LogSlate: Default
+[2022.04.15-21.58.02:788][  0]LogSlate: Icons.Save
+[2022.04.15-21.58.02:788][  0]LogSlate: Icons.Toolbar.Settings
+[2022.04.15-21.58.02:788][  0]LogSlate: ListView
+[2022.04.15-21.58.02:788][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.04.15-21.58.02:788][  0]LogSlate: SoftwareCursor_Grab
+[2022.04.15-21.58.02:788][  0]LogSlate: TableView.DarkRow
+[2022.04.15-21.58.02:788][  0]LogSlate: TableView.Row
+[2022.04.15-21.58.02:788][  0]LogSlate: TreeView
+[2022.04.15-21.58.07:709][  0]SourceControl: Source control is disabled
+[2022.04.15-21.58.08:424][  0]SourceControl: Source control is disabled
+[2022.04.15-21.58.08:424][  0]SourceControl: Source control is disabled
+[2022.04.15-21.58.09:381][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.04.15-21.58.09:394][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.04.15-21.58.09:394][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.15-21.58.15:186][  0]LogPython: Using Python 3.9.7
+[2022.04.15-21.58.17:607][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 091D0CAB4F9450E0B5C620806CE39D93 | Instance: 1415267040B219695A5BEF91681FE5B1 (DESKTOP-BG3I64P-2544).
+[2022.04.15-21.58.18:413][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.15-21.58.18:509][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.15-21.58.19:646][  0]SourceControl: Source control is disabled
+[2022.04.15-21.58.19:717][  0]SourceControl: Source control is disabled
+[2022.04.15-21.58.19:845][  0]SourceControl: Source control is disabled
+[2022.04.15-21.58.19:988][  0]LogUProjectInfo: Found projects:
+[2022.04.15-21.58.23:653][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.15-21.58.24:616][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.15-21.58.24:885][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.15-21.58.24:885][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.15-21.58.25:867][  0]LogCollectionManager: Loaded 0 collections in 0.002494 seconds
+[2022.04.15-21.58.26:795][  0]LogFileCache: Scanning file cache for directory 'R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Saved/Collections/' took 0.00s
+[2022.04.15-21.58.26:795][  0]LogFileCache: Scanning file cache for directory 'R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Content/Developers/PedroMesquita/Collections/' took 0.01s
+[2022.04.15-21.58.26:795][  0]LogFileCache: Scanning file cache for directory 'R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Content/Collections/' took 0.00s
+[2022.04.15-21.58.28:975][  0]LogEngine: Initializing Engine...
+[2022.04.15-21.58.29:150][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.04.15-21.58.31:174][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.15-21.58.31:249][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.15-21.58.31:487][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.15-21.58.31:798][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.15-21.58.31:986][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.15-21.58.32:111][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.15-21.58.32:116][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.15-21.58.32:116][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.04.15-21.58.32:154][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.15-21.58.32:155][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.15-21.58.32:156][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.15-21.58.32:156][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.15-21.58.32:156][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.15-21.58.32:156][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.15-21.58.32:156][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.15-21.58.32:156][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.15-21.58.32:156][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.15-21.58.32:157][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.15-21.58.32:158][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.15-21.58.32:158][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.15-21.58.32:158][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.15-21.58.32:266][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.15-21.58.32:325][  0]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.04.15-21.58.32:334][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.15-21.58.32:364][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.15-21.58.32:364][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.15-21.58.32:382][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.04.15-21.58.32:382][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.04.15-21.58.32:383][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.15-21.58.32:383][  0]LogInit: FAudioDevice initialized.
+[2022.04.15-21.58.32:384][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.04.15-21.58.32:384][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.15-21.58.32:384][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.15-21.58.32:384][  0]LogInit: Texture streaming: Enabled
+[2022.04.15-21.58.32:647][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.04.15-21.58.32:712][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.15-21.58.32:882][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.04.15-21.58.32:948][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.04.15-21.58.32:948][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.04.15-21.58.42:319][  0]LogLiveCoding: Display: First instance in process group "UE_Trotsky_0x94174eba", spawning console
+[2022.04.15-21.58.42:319][  0]LogLiveCoding: Display: Waiting for server
+[2022.04.15-21.58.42:319][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.04.15-21.58.42:447][  0]LogInit: Transaction tracking system initialized
+[2022.04.15-21.58.42:919][  0]BlueprintLog: New page: Editor Load
+[2022.04.15-21.58.44:513][  0]LocalizationService: Localization service is disabled
+[2022.04.15-21.58.44:808][  0]TimingProfiler: Initialize
+[2022.04.15-21.58.44:811][  0]TimingProfiler: OnSessionChanged
+[2022.04.15-21.58.44:813][  0]LoadingProfiler: Initialize
+[2022.04.15-21.58.44:815][  0]LoadingProfiler: OnSessionChanged
+[2022.04.15-21.58.44:833][  0]NetworkingProfiler: Initialize
+[2022.04.15-21.58.44:841][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.15-21.58.44:842][  0]MemoryProfiler: Initialize
+[2022.04.15-21.58.44:842][  0]MemoryProfiler: OnSessionChanged
+[2022.04.15-21.58.50:157][  0]LogFileCache: Scanning file cache for directory 'R:/Epic Games/Trotsky/Trotsky 5.0 5.0.v3/Content/' took 0.03s
+[2022.04.15-21.58.50:157][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.04.15-21.58.51:871][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.15-21.58.51:945][  0]SourceControl: Source control is disabled
+[2022.04.15-21.58.51:956][  0]LogUnrealEdMisc: Loading editor; pre map load, took 100.800
+[2022.04.15-21.58.52:013][  0]Cmd: MAP LOAD FILE="../../../../Trotsky/Trotsky 5.0 5.0.v3/Content/Levels/Leveis_Jogo/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.15-21.58.52:015][  0]LightingResults: New page: Lighting Build
+[2022.04.15-21.58.52:111][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.15-21.58.52:159][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-21.58.52:180][  0]MapCheck: New page: Map Check
+[2022.04.15-21.58.52:180][  0]LightingResults: New page: Lighting Build
+[2022.04.15-21.58.52:501][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.15-21.58.52:645][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.04.15-21.58.54:871][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\Blueprints\BP_Ghost.uasset: Invalid GameplayTag Character.Ghosts.Ghost1 found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.15-21.58.57:310][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\Widgets\WBP_DialogueManager.uasset: Invalid GameplayTag Character.Initiator found in object K2Node_CallFunction_78.
+[2022.04.15-21.58.58:514][  0]LogBlueprint: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Cameras\BP_FixedCamera.uasset: [Compiler] On Actor Begin Overlap (CollisionVolume)  does not have a valid matching component!
+[2022.04.15-21.59.02:560][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\Blueprint\Dialogue\BP_NPC_Abramovich.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.15-21.59.02:633][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\Blueprint\Dialogue\BP_NPC_Catherine.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.15-21.59.02:677][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\Blueprint\Dialogue\BP_NPC_Gabrielle.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.15-21.59.02:708][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\Blueprint\Dialogue\BP_NPC_Guillaume.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.15-21.59.02:784][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\Blueprint\Dialogue\BP_NPC_Victor.uasset: Invalid GameplayTag Character.NPC.Bia found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.15-21.59.04:687][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\Blueprint\Assets\BP_Door_LockPick.uasset: Invalid GameplayTag Door.Slide found in property /Game/PNCTookit/Blueprints/Components/BP_GlobalInteractionComponent.BP_GlobalInteractionComponent_C:GameplayTag.
+[2022.04.15-21.59.09:083][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic_2 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.09:083][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Initiator found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.09:084][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic_3 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.09:084][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic_3 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.09:084][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic_3 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.09:084][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Initiator found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.09:084][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.NPC.Generic found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.09:084][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Ghosts.Ghost1 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.09:084][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Ghosts.Ghost2 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.09:084][  0]LogGameplayTags: Warning: [AssetLog] R:\Epic Games\Trotsky\Trotsky 5.0 5.0.v3\Content\PNCTookit\Blueprints\Gameplay\Dialogue\DT_DialogueExamples.uasset: Invalid GameplayTag Character.Ghosts.Ghost3 found in property /Game/PNCTookit/Blueprints/Gameplay/Dialogue/Structs/SDialogueVisuals.SDialogueVisuals:CharacterTag_26_9B5F60264BAC99304CFD3084E91243E5.
+[2022.04.15-21.59.10:426][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/PNCTookit/PNCGame/Scenes/ForestDemo/SceneContent/Meshes/SM_Leaf) ...
+[2022.04.15-21.59.11:651][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level01'.
+[2022.04.15-21.59.11:651][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.15-21.59.11:651][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.15-21.59.11:652][  0]LogAIModule: Creating AISystem for world Level01
+[2022.04.15-21.59.12:392][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.15-21.59.12:595][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.04.15-21.59.12:607][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.15-21.59.12:608][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.724ms to complete.
+[2022.04.15-21.59.12:620][  0]LogFileHelpers: Loading map 'Level01' took 20.635
+[2022.04.15-21.59.14:198][  0]LogUnrealEdMisc: Total Editor Startup Time, took 123.052
+[2022.04.15-21.59.14:198][  0]LogShaderCompilers: Display: ================================================
+[2022.04.15-21.59.14:198][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.15-21.59.14:198][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.04.15-21.59.14:210][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.04.15-21.59.14:210][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.04.15-21.59.14:210][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.15-21.59.14:210][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.04.15-21.59.14:210][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.04.15-21.59.14:210][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.04.15-21.59.14:210][  0]LogShaderCompilers: Display: ================================================
+[2022.04.15-21.59.14:823][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-21.59.14:856][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-21.59.14:864][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-21.59.14:872][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-21.59.16:458][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:458][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.16:509][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:509][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.16:539][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:539][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.16:573][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:573][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.16:607][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:607][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.16:631][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:631][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.16:659][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:659][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.16:725][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:725][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.16:741][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:741][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.16:771][  0]LogPakFile: Display: Mounted Pak file 'R:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.04.15-21.59.16:771][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.15-21.59.18:036][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.04.15-21.59.18:390][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.04.15-21.59.20:040][  0]LogSlate: Took 0.034623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.15-21.59.20:060][  0]LogSlate: Took 0.006451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.15-21.59.20:102][  0]LogSlate: Took 0.006076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.15-21.59.20:127][  0]LogSlate: Took 0.023843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.15-21.59.20:160][  0]LogSlate: Took 0.020674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.15-21.59.21:020][  0]LogStall: Startup...
+[2022.04.15-21.59.21:022][  0]LogStall: Startup complete.
+[2022.04.15-21.59.21:157][  0]LogLoad: (Engine Initialization) Total time: 130.01 seconds
+[2022.04.15-21.59.21:157][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.15-21.59.21:290][  0]LogAssetRegistry: Asset discovery search completed in 85.9346 seconds
+[2022.04.15-21.59.21:413][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.04.15-21.59.21:516][  0]LogContentStreaming: Texture pool size now 800 MB
+[2022.04.15-21.59.23:014][  2]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.15-21.59.23:014][  2]LogSlate: Took 0.009302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.15-21.59.27:034][ 13]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/Leveis_Jogo/Level01.
+[2022.04.15-21.59.47:469][ 76]LogDerivedDataCache: C:/Users/Pedro Mesquita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.931 and deleted 895 file(s) with total size 145 MiB.
+[2022.04.15-22.04.44:579][ 72]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.15-22.04.44:778][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.15-22.04.44:838][ 72]PIE: New page: PIE session: Level01 (Apr 15, 2022, 4:04:44 PM)
+[2022.04.15-22.04.44:978][ 72]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.04.15-22.04.45:006][ 72]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.15-22.04.45:022][ 72]LogPlayLevel: Creating play world package: /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01
+[2022.04.15-22.04.45:161][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138892s)
+[2022.04.15-22.04.45:161][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Leveis_Jogo/Level01.Level01 to /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01 (0.139474s)
+[2022.04.15-22.04.45:161][ 72]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.15-22.04.45:197][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.15-22.04.45:198][ 72]LogAIModule: Creating AISystem for world Level01
+[2022.04.15-22.04.45:198][ 72]LogPlayLevel: PIE: World Init took: (0.036894s)
+[2022.04.15-22.04.45:279][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.15-22.04.45:288][ 72]LogBlueprintUserMessages: [None] [LOG]   Game Preferences Found!
+[2022.04.15-22.04.45:310][ 72]Cmd: r.ScreenPercentage  75
+[2022.04.15-22.04.45:644][ 72]r.ScreenPercentage = "75"
+[2022.04.15-22.04.45:644][ 72]Cmd:  r.ViewDistanceScale 0.8
+[2022.04.15-22.04.45:644][ 72]r.ViewDistanceScale = "0.8"
+[2022.04.15-22.04.45:644][ 72]Cmd: r.PostProcessAAQuality 4
+[2022.04.15-22.04.45:698][ 72]Cmd: sg.PostProcessQuality 2
+[2022.04.15-22.04.45:698][ 72]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.04.15-22.04.45:698][ 72]sg.PostProcessQuality = "2"
+[2022.04.15-22.04.45:698][ 72]Cmd: sg.ShadowQuality 2
+[2022.04.15-22.04.45:698][ 72]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.04.15-22.04.45:698][ 72]sg.ShadowQuality = "2"
+[2022.04.15-22.04.45:699][ 72]Cmd: sg.TextureQuality 2
+[2022.04.15-22.04.45:699][ 72]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.04.15-22.04.45:699][ 72]sg.TextureQuality = "2"
+[2022.04.15-22.04.45:699][ 72]Cmd: sg.EffectsQuality 2
+[2022.04.15-22.04.45:699][ 72]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.04.15-22.04.45:699][ 72]sg.EffectsQuality = "2"
+[2022.04.15-22.04.45:699][ 72]Cmd: sg.FoliageQuality 2
+[2022.04.15-22.04.45:699][ 72]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.04.15-22.04.45:699][ 72]sg.FoliageQuality = "2"
+[2022.04.15-22.04.45:699][ 72]LogBlueprintUserMessages: [None] [LOG]   Game Preferences Found!
+[2022.04.15-22.04.45:781][ 72]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.15-22.04.45:781][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.15-22.04.45:781][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.15-22.04.45:781][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.15-22.04.45:781][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.15-22.04.45:781][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.15-22.04.45:781][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.15-22.04.45:781][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.15-22.04.45:781][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.15-22.04.45:782][ 72]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.15-22.04.45:782][ 72]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.15-22.04.45:782][ 72]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.15-22.04.45:784][ 72]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.15-22.04.45:811][ 72]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.04.15-22.04.45:812][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.15-22.04.45:812][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.15-22.04.45:812][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.15-22.04.45:814][ 72]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.04.15-22.04.45:814][ 72]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.04.15-22.04.45:816][ 72]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.04.15-22.04.45:816][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.04.15-22.04.45:816][ 72]LogInit: FAudioDevice initialized.
+[2022.04.15-22.04.45:816][ 72]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level01'.
+[2022.04.15-22.04.46:003][ 72]LogLoad: Game class is 'BP_GameModePrinciped_C'
+[2022.04.15-22.04.46:039][ 72]LogWorld: Bringing World /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2022.04.15-19.04.46
+[2022.04.15-22.04.46:192][ 72]LogWorld: Bringing up level for play took: 0.188969
+[2022.04.15-22.04.46:239][ 72]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.04.15-22.04.46:611][ 72]LogBlueprintUserMessages: [None] [LOG]   Interaction Manager added to the scene!
+[2022.04.15-22.04.46:637][ 72]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.04.15-22.04.46:637][ 72]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.04.15-22.04.46:637][ 72]LogBlueprintUserMessages: [None] [LOG]   Added: PlayerGame UI
+[2022.04.15-22.04.46:637][ 72]LogBlueprintUserMessages: [None] [LOG]   Added: Adventure Cursor Found
+[2022.04.15-22.04.46:637][ 72]LogBlueprintUserMessages: [None] [LOG]   Added: Dialogue Manager
+[2022.04.15-22.04.46:648][ 72]PIE: Server logged in
+[2022.04.15-22.04.46:649][ 72]PIE: Play in editor total start time 2.057 seconds.
+[2022.04.15-22.04.47:166][ 73]LogBlueprintUserMessages: [None] [LOG]   Game Preferences Found!
+[2022.04.15-22.04.47:166][ 73]LogBlueprintUserMessages: [None] [LOG]   Game Preferences Found!
+[2022.04.15-22.04.47:168][ 73]LogBlueprintUserMessages: [None] [LOG]   Found Interactable Object " BP_Ticket " without an interaction volume. Adding Interaction Volume for the actor.
+[2022.04.15-22.04.47:168][ 73]LogBlueprintUserMessages: [None] [LOG]   Tip: Generated Interaction Volumes can still result in strange behavior. Add your own volume for interactable actors in your scene for a better result. 
+[2022.04.15-22.04.47:168][ 73]LogBlueprintUserMessages: [None] [LOG]   Found Interactable Object " BP_Door_pick " without an interaction volume. Adding Interaction Volume for the actor.
+[2022.04.15-22.04.47:168][ 73]LogBlueprintUserMessages: [None] [LOG]   Tip: Generated Interaction Volumes can still result in strange behavior. Add your own volume for interactable actors in your scene for a better result. 
+[2022.04.15-22.04.47:273][ 76]LogBlueprintUserMessages: [None] [LOG]   Loading Scene ...
+[2022.04.15-22.04.54:500][850]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.04.15-22.04.55:364][944]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 45.0
+[2022.04.15-22.04.55:753][986]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 90.0
+[2022.04.15-22.04.56:085][ 23]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 135.0
+[2022.04.15-22.04.56:453][ 63]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 180.0
+[2022.04.15-22.04.56:934][117]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 135.0
+[2022.04.15-22.04.57:369][165]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 90.0
+[2022.04.15-22.04.57:627][194]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 45.0
+[2022.04.15-22.04.57:979][233]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 135.0
+[2022.04.15-22.04.58:364][276]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 90.0
+[2022.04.15-22.04.58:675][311]LogBlueprintUserMessages: [WBP_LookAndPick_C_5] 45.0
+[2022.04.15-22.05.00:283][488]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:293][488]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:301][489]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:301][489]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:309][490]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:310][490]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:320][491]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:320][491]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:329][492]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:329][492]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:337][493]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:337][493]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:347][494]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:347][494]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:356][495]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:356][495]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:364][496]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:364][496]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:371][497]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:371][497]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:382][498]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:382][498]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:390][499]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:391][499]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:399][500]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:400][500]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:408][501]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:409][501]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:419][502]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:419][502]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:428][503]LogScript: Warning: Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_5
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.00:428][503]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:436][504]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:445][505]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:455][506]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:463][507]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:472][508]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:482][509]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:491][510]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:499][511]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:507][512]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:519][513]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:528][514]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:535][515]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:545][516]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:554][517]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:563][518]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:572][519]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:582][520]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:591][521]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:600][522]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:609][523]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:619][524]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:627][525]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:635][526]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:645][527]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:654][528]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:662][529]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:671][530]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:681][531]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:690][532]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:699][533]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:707][534]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:718][535]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:726][536]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:735][537]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:746][538]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:754][539]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:762][540]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.00:770][541]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_205 via property ActorReplace, but StaticMeshActor_205 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.04:654][959]LogBlueprintUserMessages: [WBP_LookAndPick_C_4] 45.0
+[2022.04.15-22.05.05:022][  0]LogBlueprintUserMessages: [WBP_LookAndPick_C_4] 90.0
+[2022.04.15-22.05.05:336][ 35]LogBlueprintUserMessages: [WBP_LookAndPick_C_4] 135.0
+[2022.04.15-22.05.05:946][102]LogBlueprintUserMessages: [WBP_LookAndPick_C_4] 135.0
+[2022.04.15-22.05.08:951][428]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.08:951][428]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.08:958][429]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.08:959][429]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.08:967][430]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.08:967][430]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.08:975][431]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.08:975][431]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.08:987][432]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.08:987][432]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.08:995][433]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.08:996][433]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:004][434]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:004][434]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:014][435]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:014][435]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:022][436]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:022][436]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:031][437]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:032][437]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:040][438]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:040][438]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:050][439]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:050][439]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:058][440]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:058][440]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:067][441]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:067][441]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:075][442]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:075][442]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:086][443]LogScript: Warning: Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)
+	BP_Door_LockPick_C /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01.Level01:PersistentLevel.BP_Door_LockPick_C_4
+	Function /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick_C:ExecuteUbergraph_BP_Door_LockPick:0015
+[2022.04.15-22.05.09:086][443]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:094][444]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:103][445]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:113][446]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:122][447]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:129][448]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:138][449]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:149][450]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:159][451]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:168][452]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:177][453]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:187][454]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:195][455]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:203][456]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:213][457]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:223][458]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:232][459]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:240][460]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:251][461]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:260][462]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:269][463]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:279][464]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:288][465]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:297][466]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:306][467]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:316][468]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:325][469]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:333][470]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:341][471]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:352][472]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:361][473]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:369][474]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:379][475]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:387][476]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:396][477]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:404][478]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:413][479]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:422][480]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:431][481]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.09:439][482]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMeshActor_247 via property ActorReplace, but StaticMeshActor_247 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Door Lock Pick Blueprint:  BP_Door_LockPick
+[2022.04.15-22.05.12:453][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-22.05.12:454][761]LogWorld: BeginTearingDown for /Game/Levels/Leveis_Jogo/UEDPIE_0_Level01
+[2022.04.15-22.05.12:458][761]LogBlueprintUserMessages: [None] [LOG]   Game Preferences Found!
+[2022.04.15-22.05.12:459][761]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.04.15-22.05.12:464][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.05.13:073][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.15-22.05.13:083][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.05.13:114][761]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.15-22.05.13:132][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.15-22.05.13:133][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.15-22.05.13:138][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-22.05.13:204][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.15-22.05.13:442][762]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.04.15-22.05.13:470][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.15-22.05.17:739][187]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Assets/BP_Door_LockPick.BP_Door_LockPick
+[2022.04.15-22.05.17:777][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
