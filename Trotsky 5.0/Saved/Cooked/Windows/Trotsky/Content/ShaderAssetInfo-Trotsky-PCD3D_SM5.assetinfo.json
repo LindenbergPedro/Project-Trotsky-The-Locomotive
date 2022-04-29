@@ -1,0 +1,655 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "CD2B01ED531CE4C68A1892DABE2A6131F535DBC8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B2A7F335FC62A023E1D59DE2ADBD3C72F13800",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "211087F62EFBB7C1BE4972E660D86BC3FFBFC5C0",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EACFA4020082090A51165F6F8F385B9C8ABCC6B2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B75365FD1D472D9BDDB570FDE8960C5F56236FF0",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "580BAEC620B37DE8A1FE8FC479D667FE85792074",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6118C2EF81328E746F6736EACA89ADF8A3761CC6",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "84E02F5928102B7C930E738C991C08D607470873",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "DC662FADED5C77B6D4456A8A78B04DCC16D274EC",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Modular/Assets/Light_geo/LZR_abaju_light_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC4F45367FAC73ACCAFA8CD9667AB56C2F23608",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E08BA9EEDCE6F38326268C3A07EE89C7D93BF5CE",
+			"Assets": [
+				"/Game/Material/M_blackworld_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "1FEA24B0BAB83471C42DA06A6FB16DB962DF754A",
+			"Assets": [
+				"/Game/Material/Roof"
+			]
+		},
+		{
+			"ShaderMapHash": "CD8021B23BB9043456A57AFED8239CC6E1B45757",
+			"Assets": [
+				"/Game/Modular/Assets/ALL_shared_glass_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "00F4AC15C3D60D5B1B82DD6B952A4D6E99F51C99",
+			"Assets": [
+				"/Game/Material/M_StaticObjects"
+			]
+		},
+		{
+			"ShaderMapHash": "03BF4528FCC88F4598871FBACCDEB3E5BB9DF790",
+			"Assets": [
+				"/Game/Material/M_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "99C2706658E9A66205489B13B4EAC8DC79DC288F",
+			"Assets": [
+				"/Game/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "3A5C67BB1D82F0A169D07CDAAD327D1E35483814",
+			"Assets": [
+				"/Game/Modular/Assets/Closet_Geo/03/SM_closet_03_mat",
+				"/Game/Modular/Assets/Closet_Geo/04/SM_closet_04_mat",
+				"/Game/Modular/Assets/Closet_Geo/07/SM_closet_bedroom_mat",
+				"/Game/Modular/Assets/Closet_Geo/08/SM_kitchen_01_mat",
+				"/Game/Modular/Assets/Curtains_Geo/CBN_curtain_small_closed_mat",
+				"/Game/Modular/Assets/Curtains_Geo/CBN_curtain_small_open_mat",
+				"/Game/Modular/Assets/Desk_Geo/03/SM_desk_03_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "7A472C3756E8D654C96426D27AF4D55DBB01FDAE",
+			"Assets": [
+				"/Game/Modular/Assets/Window_geo/RST_wall_window_mat",
+				"/Game/Modular/Assets/Window_geo/RST_wall_window_up_mat",
+				"/Game/Modular/Assets/Window_geo/CBN_wall_window_top_mat",
+				"/Game/Modular/Assets/Window_geo/LZR_window_mat",
+				"/Game/Modular/Assets/Window_geo/LZR_window_up_mat",
+				"/Game/Modular/Assets/Window_geo/RST_wall_exterior_window_mat",
+				"/Game/Modular/Assets/Window_geo/RST_wall_exterior_window_up_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C52E5226D3CFA1CAC3D87FAC8D50F38D363FAB58",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "13DCAC86E855218EA25CC1DD8D9BE6D6AD3BFC29",
+			"Assets": [
+				"/Game/Material/Light/M_LightFlickerCandle"
+			]
+		},
+		{
+			"ShaderMapHash": "FDD38239D3A832A60D13EF23BBA536C92F681E68",
+			"Assets": [
+				"/Game/Material/M_Celsheding"
+			]
+		},
+		{
+			"ShaderMapHash": "DDFDED41BEC619FC7E5912E1D2B583E3DD534B15",
+			"Assets": [
+				"/Game/Characters/Victor_Stones/Victor_stones_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "A583EAD8CCEE3C8094B2B46535089EE2DE8CE545",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Materials/M_Colour_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "290F247EFDDC744A7C955725BEB40CBE95235962",
+			"Assets": [
+				"/Game/Modular/Assets/Item_Geo/01/SM_bilhete_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "4A6E2A1FE2CD84BEC1C476D3A1334746DF7145C7",
+			"Assets": [
+				"/Game/Modular/Material/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "01D9FB540B9F9A486FD009B0DD85F11C78DCC5FC",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Materials/M_Global_Material_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "9CCBF56CDD8E0AD8CC31A8435C88D743B98E9ED1",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "51C7B05DD3F62879F54D0D1972E720772888456B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1F40DFD96D8AE3D0F8486C03725DDC2EEC53AD0",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "A6AA03CB707A2A35E6B21885A08ED26D847E4CE1",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B155BF25ABE1B5D74C1CCF6398D60B69E8E7C0A",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7E49B2C7E4F45A769712E5F5D597423E50A31090",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3F7895F3B3EC85C81839B53617DEF4F1A94DA828",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8C73641D32B7DA2DEF6B40664D0A99BA9A0CD673",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A91267099E00CB6E114581FBC960569A39E5CE2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6CE9731DBD31520A0F28233FD6C531B40ED2E593",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "25505245776F29D612F7A2A47DF00B8F08CF6DFD",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "CC55EA1DC806B30DD6AE1628892C72F7943F02A8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1F1917C0B2A90430886F0E2D874E29F7CD31CF1D",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Materials/M_InteractionVolume"
+			]
+		},
+		{
+			"ShaderMapHash": "E9921F6DF8374D104B6FE83790934699F10407C9",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Characters/Mannequin3D/Character/Materials/M_Man_Chest_Logo"
+			]
+		},
+		{
+			"ShaderMapHash": "2E74C79049C44CCA97964D40ECAD5B4E537DE10D",
+			"Assets": [
+				"/Game/Characters/Gabrielle/gabriella_mat1"
+			]
+		},
+		{
+			"ShaderMapHash": "BF428DFCD9DDA04658E758CA4DF821A541881A5D",
+			"Assets": [
+				"/Game/Characters/Gabrielle/gabriella_mat",
+				"/Game/Characters/Catharine/Catharine_mat",
+				"/Game/Characters/Gabrielle/chair_mat",
+				"/Game/Characters/Guillaume/Guilaume_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AC7D85BD4236B3A4EC13E102D429F7E93E1F28D2",
+			"Assets": [
+				"/Game/Characters/Jehan2/Material/M_Roupa"
+			]
+		},
+		{
+			"ShaderMapHash": "01B94E3DEA5E653E557C7905108F726AD6F6DE1D",
+			"Assets": [
+				"/Game/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_"
+			]
+		},
+		{
+			"ShaderMapHash": "0C6DC9EBD5420F6761D5A77366086B8FDBD22B1F",
+			"Assets": [
+				"/Game/Modular/Assets/Closet_Geo/01/SM_closet_base_01_mat",
+				"/Game/Modular/Assets/Closet_Geo/01/SM_closet_beer_01_mat",
+				"/Game/Modular/Assets/Closet_Geo/02/SM_closet_02_mat",
+				"/Game/Modular/Assets/Closet_Geo/06/SM_closet_wardrobe_02_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/wall_center_01_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/wall_center_02_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/wall_center_03_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/wall_center_04_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/Wall_closed_03_mat",
+				"/Game/Modular/Material/M_Door",
+				"/Game/Modular/Material/M_floor"
+			]
+		},
+		{
+			"ShaderMapHash": "B62647EAE5CDD8CFA2CC041BCD9D5FEC1D56257D",
+			"Assets": [
+				"/Game/Modular/Assets/Closet_Geo/01/SM_closet_glass_01_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C74D9C2C40E7275AE1B24A6DA8A1196C038E8467",
+			"Assets": [
+				"/Game/Modular/Assets/Closet_Geo/CBN_wall_closet_mat",
+				"/Game/Modular/Assets/Curtains_Geo/CBN_curtain_closed_mat",
+				"/Game/Modular/Assets/Curtains_Geo/CBN_curtain_open_mat",
+				"/Game/Modular/Assets/Curtains_Geo/RST_wall_curtains_mat",
+				"/Game/Modular/Assets/Curtains_Geo/RST_wall_curtains_up_mat",
+				"/Game/Modular/Assets/Desk_Geo/01/RST_desk_mat",
+				"/Game/Modular/Assets/Desk_Geo/Balcon/LZR_balcon_great_mat",
+				"/Game/Modular/Assets/Desk_Geo/Balcon/LZR_balcon_small_mat",
+				"/Game/Modular/Assets/Desk_Geo/Balcon/RST_balcon_great_mat",
+				"/Game/Modular/Assets/Desk_Geo/Balcon/RST_balcon_small_mat",
+				"/Game/Modular/Assets/Desk_Geo/LZR_desk_chair_mat",
+				"/Game/Modular/Assets/Door_Geo/LZR_balcon_door_mat",
+				"/Game/Modular/Assets/Door_Geo/LZR_door_outside_mat",
+				"/Game/Modular/Assets/Sofa_Chair_Geo/LZR_balcon_chair_mat",
+				"/Game/Modular/Assets/Sofa_Chair_Geo/LZR_chair_mat",
+				"/Game/Modular/Assets/Sofa_Chair_Geo/LZR_sofa_small_mat",
+				"/Game/Modular/Assets/Sofa_Chair_Geo/RST_chair_dinner_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_front_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/LZR_wall_door_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/LZR_wall_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/LZR_wall_window_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/RST_wall_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "8AA35AD9B9B81FA0AF14C80BE6363C848173CC88",
+			"Assets": [
+				"/Game/Modular/Assets/Door_Geo/CBN_wall_back_door_mat",
+				"/Game/Modular/Assets/Sofa_Chair_Geo/CBN_sofa_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_back_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_exterior_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "A9A5C8C7416E6CE0076367CA384814C3099A6143",
+			"Assets": [
+				"/Game/Modular/Assets/Floor_Ceiling_Geo/CBN_floor_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BF5892CCD62CE0434AEA4D50AD45A3917303FFBC",
+			"Assets": [
+				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_exterior_sides_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "9E1D0919803E736FEDA74815DAFBA9986ACD8531",
+			"Assets": [
+				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_sides_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "EF893743A77FAFA5CE7034CA827F6744079898A0",
+			"Assets": [
+				"/Game/Material/M_Outline"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/Modular/Assets/SM_objects_geo/SM_book_closet_01_mat",
+				"/Game/Modular/Assets/SM_objects_geo/SM_retrato_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "22A282267EF528F293E7D6293037B8C80BC7A710",
+			"Assets": [
+				"/Game/Modular/Assets/SM_objects_geo/SM_book_open_01_mat",
+				"/Game/Modular/Assets/SM_objects_geo/SM_planilha_01_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "E70F3B42121522717BA8F77C3AF9A97339731050",
+			"Assets": [
+				"/Game/Modular/Assets/SM_objects_geo/SM_desk_01_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "98E9C843A8EA1895FBFAFF11DFA7513098AE2613",
+			"Assets": [
+				"/Game/Modular/Material/M_Ceiling",
+				"/Game/Modular/Material/M_wall",
+				"/Game/Modular/Material/M_wall_Door_001",
+				"/Game/Modular/Material/M_wall_L"
+			]
+		},
+		{
+			"ShaderMapHash": "C82E9B1800707E8C7E8FA59D57D45C103855A288",
+			"Assets": [
+				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_exterior_sides_door_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "59B7823AFF935C22D7876461A5831596B1FF00CE",
+			"Assets": [
+				"/Game/Modular/Assets/Door_Geo/CBN_wall_front_door_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C0AA2503A812D37C121194D58CFC85EB11F2034A",
+			"Assets": [
+				"/Game/Modular/Assets/Closet_Geo/05/SM_closet_wardrobe_01_mat",
+				"/Game/Modular/Assets/Item_Geo/02/ITEM_drink_mat",
+				"/Game/Modular/Assets/Item_Geo/03/ITEM_lemon_mat",
+				"/Game/Modular/Assets/Item_Geo/05/ITEM_vodka_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "12E9F5F6B5F49D6FDBC6B24F00362884A58324F2",
+			"Assets": [
+				"/Game/Characters/Jehan2/Material/M_Corpo",
+				"/Game/Characters/Meursault_NPC/Meursauld_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0068F996E288CF91C3D2ABEC00A92BE798E149C0",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Effects/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "C2E563CA72CD446FE90EEB20A5E098A2B5C3CDC8",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Effects/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "F2BAD59CFA8965E2779AB525E3691189F8E8A41E",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Effects/Materials/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "81FCE478ACAF1C47903CCEE90DA8B2502F837953",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Effects/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "97D1FF87C10924542E6FB011334EF75C89E7BAE7",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Effects/Materials/M_Leaf"
+			]
+		},
+		{
+			"ShaderMapHash": "6B99A948A628D964FE74D12CC8EB7773F4FE40FC",
+			"Assets": [
+				"/Game/Modular/Material/M_wall_window"
+			]
+		},
+		{
+			"ShaderMapHash": "2A7BE24A63D685E6E59E3EF2E6FFA2F63498C96F",
+			"Assets": [
+				"/HDRIBackdrop/Materials/HDRI_Projection"
+			]
+		},
+		{
+			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E171CFA61F0313D35C414F4721E393617AAFB691",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "14CC31EF34BEE66179FCF777D126490DD5DFA5DD",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "648B34FBF1A6265873DAA2FDE756E9E90165B27A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "08AB2FB6F0B0D7F55EC432ED817F96CBDE053FE7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "23B1EF696CB55868211558A2D14ECFFBB29B851A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "AFA704DFA8933291AFD81379831C29E75DE3D240",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Characters/Mannequin3D/Character/Materials/MI_Man_ChestLogo_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "37B94DC71D67C16A174E6D53610F3563F078DD9F",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Characters/Mannequin3D/Character/Materials/M_Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "A610556F792D66B12C7AC8A7B3722AEC8B0AEDB7",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Materials/M_Global_Interactive_Material_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "DF69CFC0D9FF5A64689AA1929CE94A422D5C86AB",
+			"Assets": [
+				"/HDRIBackdrop/Materials/MI_HDRI_CenterProjection"
+			]
+		},
+		{
+			"ShaderMapHash": "FC23D797134B87F3B39F09D37D9103383E3BE811",
+			"Assets": [
+				"/HDRIBackdrop/Materials/MI_HDRI_CameraProjection"
+			]
+		},
+		{
+			"ShaderMapHash": "3B2B19FA5414E6DAD9643AF0062E6F480FA16D8E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "8345137F2BD4A50DBC10028F38963D9F3A12B8B2",
+			"Assets": [
+				"/Game/GoodSky/Source/Materials/M_GoodSky_Sun_Stars"
+			]
+		},
+		{
+			"ShaderMapHash": "EB8F97E5D92BD0170DDAC12C78929876F4A99FBC",
+			"Assets": [
+				"/Game/GoodSky/Source/Materials/M_GoodSky_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "BE192F46B5A906FEDFBFC68FFD42D54EC6DBD248",
+			"Assets": [
+				"/Game/GoodSky/Source/Materials/M_GoodSky_Moon"
+			]
+		},
+		{
+			"ShaderMapHash": "A30B94B76994902C3BFBF48D264FC1A8E7ABAEA6",
+			"Assets": [
+				"/Game/GoodSky/Source/Materials/M_GoodSky_Sun_Stars_Moon"
+			]
+		},
+		{
+			"ShaderMapHash": "462D8905BFC24DC6DBE5ED6B35D623F860FECC17",
+			"Assets": [
+				"/Game/GoodSky/Source/Materials/M_GoodSky_Storm"
+			]
+		}
+	]
+}
