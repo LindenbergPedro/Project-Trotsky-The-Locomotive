@@ -82,12 +82,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "E08BA9EEDCE6F38326268C3A07EE89C7D93BF5CE",
 			"Assets": [
 				"/Game/Material/M_blackworld_mat"
@@ -112,9 +106,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "03BF4528FCC88F4598871FBACCDEB3E5BB9DF790",
+			"ShaderMapHash": "3885D9B64F77E4C9A8425512D4BF123FC144DCAD",
 			"Assets": [
-				"/Game/Material/M_Emissive"
+				"/Game/Modular/Assets/Item_Geo/Item_ferramenta_mat"
 			]
 		},
 		{
@@ -160,21 +154,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FDD38239D3A832A60D13EF23BBA536C92F681E68",
+			"ShaderMapHash": "BD220C08FA084BA6270D5D293910EE3EFBC81D8A",
 			"Assets": [
-				"/Game/Material/M_Celsheding"
-			]
-		},
-		{
-			"ShaderMapHash": "DDFDED41BEC619FC7E5912E1D2B583E3DD534B15",
-			"Assets": [
-				"/Game/Characters/Victor_Stones/Victor_stones_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "A583EAD8CCEE3C8094B2B46535089EE2DE8CE545",
-			"Assets": [
-				"/Game/PNCTookit/PNCGame/Scenes/Shared/Materials/M_Colour_Base"
+				"/Game/Modular/Assets/Item_Geo/Item_chave_mat"
 			]
 		},
 		{
@@ -187,6 +169,12 @@
 			"ShaderMapHash": "4A6E2A1FE2CD84BEC1C476D3A1334746DF7145C7",
 			"Assets": [
 				"/Game/Modular/Material/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "A583EAD8CCEE3C8094B2B46535089EE2DE8CE545",
+			"Assets": [
+				"/Game/PNCTookit/PNCGame/Scenes/Shared/Materials/M_Colour_Base"
 			]
 		},
 		{
@@ -336,24 +324,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2E74C79049C44CCA97964D40ECAD5B4E537DE10D",
+			"ShaderMapHash": "12E9F5F6B5F49D6FDBC6B24F00362884A58324F2",
 			"Assets": [
-				"/Game/Characters/Gabrielle/gabriella_mat1"
-			]
-		},
-		{
-			"ShaderMapHash": "BF428DFCD9DDA04658E758CA4DF821A541881A5D",
-			"Assets": [
-				"/Game/Characters/Gabrielle/gabriella_mat",
+				"/Game/Characters/Jehan/Jehan_mat",
 				"/Game/Characters/Catharine/Catharine_mat",
-				"/Game/Characters/Gabrielle/chair_mat",
-				"/Game/Characters/Guillaume/Guilaume_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "AC7D85BD4236B3A4EC13E102D429F7E93E1F28D2",
-			"Assets": [
-				"/Game/Characters/Jehan2/Material/M_Roupa"
+				"/Game/Characters/Gabrielle/gabriella_mat",
+				"/Game/Characters/Meursault_NPC/Meursauld_mat",
+				"/Game/Characters/Victor_Stones/Victor_stones_mat"
 			]
 		},
 		{
@@ -369,6 +346,8 @@
 				"/Game/Modular/Assets/Closet_Geo/01/SM_closet_beer_01_mat",
 				"/Game/Modular/Assets/Closet_Geo/02/SM_closet_02_mat",
 				"/Game/Modular/Assets/Closet_Geo/06/SM_closet_wardrobe_02_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_exterior_sides_mat",
+				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_sides_mat",
 				"/Game/Modular/Assets/Wall_Sides_Geo/wall_center_01_mat",
 				"/Game/Modular/Assets/Wall_Sides_Geo/wall_center_02_mat",
 				"/Game/Modular/Assets/Wall_Sides_Geo/wall_center_03_mat",
@@ -421,27 +400,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A9A5C8C7416E6CE0076367CA384814C3099A6143",
+			"ShaderMapHash": "788067F4652ECAD1FF4A36E59119BDC7FFA81995",
 			"Assets": [
 				"/Game/Modular/Assets/Floor_Ceiling_Geo/CBN_floor_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "BF5892CCD62CE0434AEA4D50AD45A3917303FFBC",
-			"Assets": [
-				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_exterior_sides_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "9E1D0919803E736FEDA74815DAFBA9986ACD8531",
-			"Assets": [
-				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_sides_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "EF893743A77FAFA5CE7034CA827F6744079898A0",
-			"Assets": [
-				"/Game/Material/M_Outline"
 			]
 		},
 		{
@@ -456,12 +417,6 @@
 			"Assets": [
 				"/Game/Modular/Assets/SM_objects_geo/SM_book_open_01_mat",
 				"/Game/Modular/Assets/SM_objects_geo/SM_planilha_01_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "E70F3B42121522717BA8F77C3AF9A97339731050",
-			"Assets": [
-				"/Game/Modular/Assets/SM_objects_geo/SM_desk_01_mat"
 			]
 		},
 		{
@@ -495,13 +450,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "12E9F5F6B5F49D6FDBC6B24F00362884A58324F2",
-			"Assets": [
-				"/Game/Characters/Jehan2/Material/M_Corpo",
-				"/Game/Characters/Meursault_NPC/Meursauld_mat"
-			]
-		},
-		{
 			"ShaderMapHash": "0068F996E288CF91C3D2ABEC00A92BE798E149C0",
 			"Assets": [
 				"/Game/PNCTookit/PNCGame/Scenes/Shared/Effects/Materials/M_Fire_SubUV"
@@ -529,6 +477,13 @@
 			"ShaderMapHash": "97D1FF87C10924542E6FB011334EF75C89E7BAE7",
 			"Assets": [
 				"/Game/PNCTookit/PNCGame/Scenes/Shared/Effects/Materials/M_Leaf"
+			]
+		},
+		{
+			"ShaderMapHash": "BF428DFCD9DDA04658E758CA4DF821A541881A5D",
+			"Assets": [
+				"/Game/Characters/Gabrielle/chair_mat",
+				"/Game/Characters/Guillaume/Guilaume_mat"
 			]
 		},
 		{
@@ -634,6 +589,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E86F789585341F6D9FCFDE3954FFCC824DC68DE5",
+			"Assets": [
+				"/Game/Material/M_post_process"
+			]
+		},
+		{
 			"ShaderMapHash": "BE192F46B5A906FEDFBFC68FFD42D54EC6DBD248",
 			"Assets": [
 				"/Game/GoodSky/Source/Materials/M_GoodSky_Moon"
@@ -649,6 +610,12 @@
 			"ShaderMapHash": "462D8905BFC24DC6DBE5ED6B35D623F860FECC17",
 			"Assets": [
 				"/Game/GoodSky/Source/Materials/M_GoodSky_Storm"
+			]
+		},
+		{
+			"ShaderMapHash": "A9A5C8C7416E6CE0076367CA384814C3099A6143",
+			"Assets": [
+				"/Game/Modular/Assets/SM_objects_geo/SM_desk_01_mat"
 			]
 		}
 	]
