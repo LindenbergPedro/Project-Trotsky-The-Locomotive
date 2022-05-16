@@ -406,6 +406,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A9A5C8C7416E6CE0076367CA384814C3099A6143",
+			"Assets": [
+				"/Game/Modular/Assets/SM_objects_geo/SM_desk_01_mat"
+			]
+		},
+		{
 			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
 			"Assets": [
 				"/Game/Modular/Assets/SM_objects_geo/SM_book_closet_01_mat",
@@ -610,12 +616,6 @@
 			"ShaderMapHash": "462D8905BFC24DC6DBE5ED6B35D623F860FECC17",
 			"Assets": [
 				"/Game/GoodSky/Source/Materials/M_GoodSky_Storm"
-			]
-		},
-		{
-			"ShaderMapHash": "A9A5C8C7416E6CE0076367CA384814C3099A6143",
-			"Assets": [
-				"/Game/Modular/Assets/SM_objects_geo/SM_desk_01_mat"
 			]
 		}
 	]
