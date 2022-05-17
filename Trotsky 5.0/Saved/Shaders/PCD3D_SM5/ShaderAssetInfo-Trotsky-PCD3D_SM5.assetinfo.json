@@ -412,14 +412,14 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"ShaderMapHash": "55BE881F11A7C6B8ECFA368CAB1A82901F579753",
 			"Assets": [
 				"/Game/Modular/Assets/SM_objects_geo/SM_book_closet_01_mat",
 				"/Game/Modular/Assets/SM_objects_geo/SM_retrato_mat"
 			]
 		},
 		{
-			"ShaderMapHash": "22A282267EF528F293E7D6293037B8C80BC7A710",
+			"ShaderMapHash": "45F67AC4A8EA1132AFE3D92B2C3B0814E9793356",
 			"Assets": [
 				"/Game/Modular/Assets/SM_objects_geo/SM_book_open_01_mat",
 				"/Game/Modular/Assets/SM_objects_geo/SM_planilha_01_mat"
