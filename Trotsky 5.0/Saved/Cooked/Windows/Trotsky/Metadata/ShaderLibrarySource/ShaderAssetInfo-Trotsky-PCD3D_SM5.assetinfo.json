@@ -60,7 +60,7 @@
 			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Modular/Assets/Light_geo/LZR_abaju_light_mat"
+				"/Game/Modular/Assets/Itens_novos/Obras_artes/la_comuna_"
 			]
 		},
 		{
@@ -100,12 +100,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "00F4AC15C3D60D5B1B82DD6B952A4D6E99F51C99",
-			"Assets": [
-				"/Game/Material/M_StaticObjects"
-			]
-		},
-		{
 			"ShaderMapHash": "3885D9B64F77E4C9A8425512D4BF123FC144DCAD",
 			"Assets": [
 				"/Game/Modular/Assets/Item_Geo/Item_ferramenta_mat"
@@ -120,13 +114,7 @@
 		{
 			"ShaderMapHash": "3A5C67BB1D82F0A169D07CDAAD327D1E35483814",
 			"Assets": [
-				"/Game/Modular/Assets/Closet_Geo/03/SM_closet_03_mat",
-				"/Game/Modular/Assets/Closet_Geo/04/SM_closet_04_mat",
-				"/Game/Modular/Assets/Closet_Geo/07/SM_closet_bedroom_mat",
-				"/Game/Modular/Assets/Closet_Geo/08/SM_kitchen_01_mat",
-				"/Game/Modular/Assets/Curtains_Geo/CBN_curtain_small_closed_mat",
-				"/Game/Modular/Assets/Curtains_Geo/CBN_curtain_small_open_mat",
-				"/Game/Modular/Assets/Desk_Geo/03/SM_desk_03_mat"
+				"/Game/Modular/Assets/Closet_Geo/07/SM_closet_bedroom_mat"
 			]
 		},
 		{
@@ -163,12 +151,6 @@
 			"ShaderMapHash": "290F247EFDDC744A7C955725BEB40CBE95235962",
 			"Assets": [
 				"/Game/Modular/Assets/Item_Geo/01/SM_bilhete_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "4A6E2A1FE2CD84BEC1C476D3A1334746DF7145C7",
-			"Assets": [
-				"/Game/Modular/Material/M_Glass"
 			]
 		},
 		{
@@ -312,9 +294,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7438680C135B8BEFDA2E6D0A5034B0D27258E822",
+			"Assets": [
+				"/Game/Material/PP_Lines"
+			]
+		},
+		{
 			"ShaderMapHash": "1F1917C0B2A90430886F0E2D874E29F7CD31CF1D",
 			"Assets": [
 				"/Game/PNCTookit/PNCGame/Scenes/Shared/Materials/M_InteractionVolume"
+			]
+		},
+		{
+			"ShaderMapHash": "DF5C6222FB64E60156FEE33CBC83559158B281B1",
+			"Assets": [
+				"/Game/Modular/Assets/Itens_novos/Bolsa/Bolsa_arara",
+				"/Game/Modular/Assets/Closet_Geo/Armario/Armario_",
+				"/Game/Modular/Assets/Itens_novos/Caixa",
+				"/Game/Modular/Assets/Itens_novos/Mesa_pe",
+				"/Game/Modular/Assets/Itens_novos/Xadrez",
+				"/Game/Modular/Assets/Light_geo/Light_parede/SM_light_parede",
+				"/Game/Modular/Assets/SM_objects_geo/Barril/Barril_"
 			]
 		},
 		{
@@ -345,7 +345,12 @@
 				"/Game/Modular/Assets/Closet_Geo/01/SM_closet_base_01_mat",
 				"/Game/Modular/Assets/Closet_Geo/01/SM_closet_beer_01_mat",
 				"/Game/Modular/Assets/Closet_Geo/02/SM_closet_02_mat",
+				"/Game/Modular/Assets/Closet_Geo/03/SM_closet_03_mat",
 				"/Game/Modular/Assets/Closet_Geo/06/SM_closet_wardrobe_02_mat",
+				"/Game/Modular/Assets/Closet_Geo/08/SM_kitchen_01_mat",
+				"/Game/Modular/Assets/Curtains_Geo/CBN_curtain_small_closed_mat",
+				"/Game/Modular/Assets/Curtains_Geo/CBN_curtain_small_open_mat",
+				"/Game/Modular/Assets/Desk_Geo/03/SM_desk_03_mat",
 				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_exterior_sides_mat",
 				"/Game/Modular/Assets/Wall_Sides_Geo/CBN_wall_sides_mat",
 				"/Game/Modular/Assets/Wall_Sides_Geo/wall_center_01_mat",
@@ -406,16 +411,44 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A9A5C8C7416E6CE0076367CA384814C3099A6143",
+			"ShaderMapHash": "80AD75BCDFF4852461C29F86D4F791F27C3C8A86",
 			"Assets": [
-				"/Game/Modular/Assets/SM_objects_geo/SM_desk_01_mat"
+				"/Game/Modular/Assets/Itens_novos/Ferro",
+				"/Game/Modular/Assets/Itens_novos/Comidas/Copos",
+				"/Game/Modular/Assets/Itens_novos/Comidas/Flor"
+			]
+		},
+		{
+			"ShaderMapHash": "9261E5D0502BE2646D86C50B9140A871327D0CD4",
+			"Assets": [
+				"/Game/Modular/Assets/Itens_novos/Comidas/Pao",
+				"/Game/Modular/Assets/Itens_novos/Comidas/Talheres",
+				"/Game/Modular/Assets/Itens_novos/Comidas/Queijo"
+			]
+		},
+		{
+			"ShaderMapHash": "C0AA2503A812D37C121194D58CFC85EB11F2034A",
+			"Assets": [
+				"/Game/Modular/Assets/Maleta/Maleta1",
+				"/Game/Modular/Assets/Light_geo/Abaju/LZR_abaju_light_mat",
+				"/Game/Modular/Assets/Closet_Geo/05/SM_closet_wardrobe_01_mat",
+				"/Game/Modular/Assets/Item_Geo/02/ITEM_drink_mat",
+				"/Game/Modular/Assets/Item_Geo/03/ITEM_lemon_mat",
+				"/Game/Modular/Assets/Item_Geo/05/ITEM_vodka_mat"
 			]
 		},
 		{
 			"ShaderMapHash": "55BE881F11A7C6B8ECFA368CAB1A82901F579753",
 			"Assets": [
+				"/Game/Modular/Assets/SM_objects_geo/Numer/Num_cabine",
 				"/Game/Modular/Assets/SM_objects_geo/SM_book_closet_01_mat",
 				"/Game/Modular/Assets/SM_objects_geo/SM_retrato_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "A9A5C8C7416E6CE0076367CA384814C3099A6143",
+			"Assets": [
+				"/Game/Modular/Assets/SM_objects_geo/SM_desk_01_mat"
 			]
 		},
 		{
@@ -444,15 +477,6 @@
 			"ShaderMapHash": "59B7823AFF935C22D7876461A5831596B1FF00CE",
 			"Assets": [
 				"/Game/Modular/Assets/Door_Geo/CBN_wall_front_door_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "C0AA2503A812D37C121194D58CFC85EB11F2034A",
-			"Assets": [
-				"/Game/Modular/Assets/Closet_Geo/05/SM_closet_wardrobe_01_mat",
-				"/Game/Modular/Assets/Item_Geo/02/ITEM_drink_mat",
-				"/Game/Modular/Assets/Item_Geo/03/ITEM_lemon_mat",
-				"/Game/Modular/Assets/Item_Geo/05/ITEM_vodka_mat"
 			]
 		},
 		{
@@ -490,12 +514,6 @@
 			"Assets": [
 				"/Game/Characters/Gabrielle/chair_mat",
 				"/Game/Characters/Guillaume/Guilaume_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "6B99A948A628D964FE74D12CC8EB7773F4FE40FC",
-			"Assets": [
-				"/Game/Modular/Material/M_wall_window"
 			]
 		},
 		{
